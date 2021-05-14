@@ -1,5 +1,8 @@
 # TeachYourselfCS-FA
+<div dir="rtl">
+  
 ترجمه فارسی [TeachYourselfCS](https://teachyourselfcs.com/).
+</div>
 
 A persian translation of [TeachYourselfCS](https://teachyourselfcs.com/).
 
