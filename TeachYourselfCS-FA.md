@@ -1,7 +1,13 @@
 <div dir="rtl">
 
 # خودتون علوم کامپیوتر را یاد بگیرید.
->This document is a persian(farsi) translation of TeachYourselfCS, written by [Ozan Onay](https://twitter.com/oznova_) and [Myles Byrne](https://twitter.com/quackingduck). For more information about this translation, please refer to [the end of this document]().
+</div>
+
+>This document is a persian(farsi) translation of TeachYourselfCS, written by [Ozan Onay](https://twitter.com/oznova_) and [Myles Byrne](https://twitter.com/quackingduck). For more information about this translation, please refer to [the end of this document](#مترجم-این-راهنما-چه-کسی-است؟).
+
+<div dir="rtl">
+
+>برای اطلاعات بیشتر در مورد ترجمه به [پایین فایل](#مترجم-این-راهنما-چه-کسی-است؟) مراجعه کنید.
 
 نکته: این راهنما اردیبهشت ۱۳۹۹ دوباره نوشته شد. برای نسخه قبلی(سال 2016) [اینجا](https://teachyourselfcs.com/2016/) کلیک کنید.
 
@@ -10,14 +16,13 @@
 یه عالمه منابع مختلف وجود دارن ولی بعضی هاشون از بقیه بهتر هستن. شما نیازی به یه لیست دویست تایی از پکیج های آموزشی ندارید. فقط کافیه که به این سوالات جواب بدید:
 
 -   شما باید **چه چیز هایی** رو یاد بگیرید و چرا؟
--   **بهترین کتاب یا سری ویدئویی** برای هر کدام از آن موضوع ها چیست؟
+-   **بهترین کتاب یا دوره ویدئویی** برای هر کدام از آن موضوع ها چیست؟
 
 این راهنما تلاش میکند تا به این سوالات جواب بدهد.
 
-لطفا با حوصله دنبال کنید.
 
+همه ۹ موضوع زیر را به ترتیب جدولی که آورده شده یاد بگیرید، از یکی از کتاب یا ویدئوهای اورده شده میتوانید استفاده کنید، ولی بهتر هست هر دو را دنبال کنید. برای هر موضوع، ۱۰۰ تا ۲۰۰ ساعت وقت برای یادگیری بزارید و دوباره به علاقه و شغلی که میخواید انتخاب کنید، فکر کنید :rocket:. 
 
-همه ۹ موضوع زیر رو به ترتیب جدولی که آورده شده یاد بگیرید، از یکی از کتاب یا ویدئوهای اورده شده میتوانید استفاده کنید، ولی بهتر هست هر دو را دنبال کنید. برای هر موضوع، ۱۰۰ تا ۲۰۰ ساعت وقت برای یادگیری بزارید و دوباره به علاقه و شغلی که میخواید انتخاب کنید، فکر کنید 🚀. 
 |موضوع|دلیل یادگیری|کتاب|ویدئو|
 |:------|:---------|:---|:-----|
 |**[برنامه نویسی](#programming)**|اون آدمی نباشید که مطالب را "کامل درک نمی کرد".|*ساختار و تفسیر برنامه های کامپیوتری* |Brian Harvey’s Berkeley CS 61A|
@@ -30,13 +35,13 @@
 |**[Languages and Compilers](#languages)**|If you understand how languages and compilers actually work, you’ll write better code and learn new languages more easily.|*Crafting Interpreters*|Alex Aiken’s course on edX|
 |**[Distributed Systems](#distributed-systems)**|These days, *most* systems are distributed systems.|*Designing Data-Intensive Applications* by Martin Kleppmann|MIT 6.824|
 
-Still too much?
----------------
+
+## هنوز خیلی زیاده ؟
 
 If the idea of self-studying 9 topics over multiple years feels overwhelming, we suggest you focus on just two books: *Computer Systems: A Programmer's Perspective* and *Designing Data-Intensive Applications*. In our experience, these two books provide incredibly high return on time invested, particularly for self-taught engineers and bootcamp grads working on networked applications. They may also serve as a "gateway drug" for the other topics and resources listed above.
 
-چرا علوم کامپیوتر یاد بگیریم؟
----------------------------
+## چرا علوم کامپیوتر یاد بگیریم؟
+
 
 دو نوع مهندس نرم افزار وجود دارد: آنهایی که علوم کامپیوتر را آنقدر خوب درک میکنند که کار های چالشی و خلاقانه انجام دهند ,و آنهایی که مهندس نرم افزارند چون با چند ابزار سطح بالا آشنایی دارند. 
 
@@ -48,10 +53,10 @@ Currently, the number of people entering the industry is rapidly increasing, whi
 
 [![](./Teach%20Yourself%20Computer%20Science_files/bilotta-tweet.png)](https://twitter.com/jenna/status/838161631662092289)
 
-Subject guides
---------------
+## راهنما برای هر سر فصل
 
-### Programming
+
+### برنامه نویسی
 
 Most undergraduate CS programs start with an “introduction” to computer programming. The best versions of these courses cater not just to novices, but also to those who missed beneficial concepts and programming models while first learning to code.
 
@@ -69,7 +74,7 @@ Finally, a point of clarification: this guide is NOT designed for those who are 
 
 [![Structure and Interpretation of Computer Programs](./Teach%20Yourself%20Computer%20Science_files/sicp.jpg)](https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html)
 
-### Computer Architecture
+### معماری کامپیوتر
 
 Computer Architecture—sometimes called “computer systems” or “computer organization”—is an important first look at computing below the surface of software. In our experience, it’s the most neglected area among self-taught software engineers.
 
@@ -94,7 +99,7 @@ Once you feel comfortable with the content of Nand2Tetris, we suggest either ret
 – Mike Acton, Engine Director at Insomniac Games
 ([watch his CppCon talk](https://www.youtube.com/watch?v=rX0ItVEVjHc))
 
-### Algorithms and Data Structures
+### الگوریتم و ساختار داده
 
 We agree with decades of common wisdom that familiarity with common algorithms and data structures is one of the most empowering aspects of a computer science education. This is also a great place to train one’s general problem-solving abilities, which will pay off in every other area of study.
 
@@ -112,7 +117,7 @@ Finally, we strongly recommend *[How to Solve It](https://smile.amazon.com/How-S
 
 — Richard Hamming
 
-### Mathematics for Computer Science
+### ریاضی برای علوم کامپیوتر
 
 In some ways, computer science is an overgrown branch of applied mathematics. While many software engineers try—and to varying degrees succeed—at ignoring this, we encourage you to embrace it with direct study. Doing so successfully will give you an enormous competitive advantage over those who don’t.
 
@@ -128,7 +133,7 @@ For linear algebra, we suggest starting with the [Essence of linear algebra](htt
 
 — John von Neumann
 
-### Operating Systems
+### سیستم عامل
 
 *[Operating System Concepts](https://www.amazon.com/dp/1118063333/)* (the “Dinosaur book”) and *[Modern Operating Systems](https://www.amazon.com/dp/013359162X/)* are the “classic” books on operating systems. Both have attracted criticism for their lack of clarity and general student unfriendliness.
 
@@ -140,7 +145,7 @@ A great way to consolidate your understanding of operating systems is to read th
 
 [![Operating Systems: Three Easy Pieces](./Teach%20Yourself%20Computer%20Science_files/ostep.jpeg)](http://pages.cs.wisc.edu/~remzi/OSTEP/)
 
-### Computer Networking
+### شبکه های کامپیوتری
 
 Given that so much of software engineering is on web servers and clients, one of the most immediately valuable areas of computer science is computer networking. Our self-taught students who methodically study networking find that they finally understand terms, concepts and protocols they’d been surrounded by for years.
 
@@ -154,7 +159,7 @@ For those who prefer video lectures, we suggest Stanford’s [*Introduction to C
 
 [![Computer Networking: A Top-Down Approach](./Teach%20Yourself%20Computer%20Science_files/top-down.jpg)](https://smile.amazon.com/Computer-Networking-Top-Down-Approach-7th/dp/0133594149/)
 
-### Databases
+### پایگاه داده
 
 It takes more work to self-learn about database systems than it does with most other topics. It’s a relatively new (i.e. post 1970s) field of study with strong commercial incentives for ideas to stay behind closed doors. Additionally, many potentially excellent textbook authors have preferred to join or start companies instead.
 
@@ -170,7 +175,7 @@ Finally, data modeling is a neglected and poorly taught aspect of working with d
 
 [![Readings in Database Systems](./Teach%20Yourself%20Computer%20Science_files/redbook.jpg)](http://www.redbook.io/) [![Data and Reality](./Teach%20Yourself%20Computer%20Science_files/data-reality.jpg)](https://www.amazon.com/Data-Reality-Perspective-Perceiving-Information/dp/1935504215)
 
-### Languages and Compilers
+### زبان ها و کامپایلر ها
 
 Most programmers learn languages, whereas most computer scientists learn *about* languages. This gives the computer scientist a distinct advantage over the programmer, even in the domain of programming! Their knowledge generalizes; they are able to understand the operation of a new language more deeply and quickly than those who have merely learned specific languages.
 
@@ -186,7 +191,7 @@ If you elect to use the Dragon Book, it’s almost essential that you cherry-pic
 
 — Ras Bodik at the start of his compilers course
 
-### Distributed Systems
+### سیستم های توزیع شده
 
 As computers have increased in number, they have also *spread*. Whereas businesses would previously purchase larger and larger mainframes, it’s typical now for even very small applications to run across multiple machines. Distributed systems is the study of how to reason about the trade-offs involved in doing so.
 
@@ -200,10 +205,9 @@ No matter the choice of textbook or other secondary resources, study of distribu
 
 [![Designing Data-Intensive Applications](./Teach%20Yourself%20Computer%20Science_files/ddia.jpg)](https://smile.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable-ebook/dp/B06XPJML5D/)
 
-Frequently asked questions
---------------------------
+## سوالات متداول
 
-#### Who is the target audience for this guide?
+#### مخاطبان این راهنما چه کسانی هسستند؟
 
 We have in mind that you are a self-taught software engineer, bootcamp grad or precocious high school student, or a college student looking to supplement your formal education with some self-study. The question of when to embark upon this journey is an entirely personal one, but most people tend to benefit from having some professional experience before diving too deep into CS theory. For instance, we notice that students *love* learning about database systems if they have already worked with databases professionally, or about computer networking if they’ve worked on a web project or two.
 
@@ -215,7 +219,7 @@ We’ve tried to limit our list to computer science topics that we feel *every p
 -   For machine learning: do Andrew Ng’s Coursera course. Be patient, and make sure you understand the fundamentals before racing off to shiny new topics like deep learning.
 -   For computer graphics: work through [Berkeley’s CS 184](http://inst.eecs.berkeley.edu/~cs184/fa12/onlinelectures.html) material, and use [Computer Graphics: Principles and Practice](https://www.amazon.com/Computer-Graphics-Principles-Practice-3rd/dp/0321399528) as a textbook.
 
-#### How strict is the suggested sequencing?
+#### یادگیریر موارد پیشنهاد شده چقدر سخت است؟
 
 Realistically, all of these subjects have a significant amount of overlap, and refer to one another cyclically. Take for instance the relationship between discrete math and algorithms: learning math first would help you analyze and understand your algorithms in greater depth, but learning algorithms first would provide greater motivation and context for discrete math. Ideally, you’d revisit both of these topics many times throughout your career.
 
@@ -227,11 +231,11 @@ When this guide was first written in 2016, the [OSS guide](https://github.com/op
 
 freeCodeCamp is focused mostly on programming, not computer science. For why you might want to learn computer science, see [above](https://teachyourselfcs.com/#why). If you are new to programming, we suggest prioritizing that, and returning to this guide in a year or two.
 
-#### What about language X?
+#### راجع به فلان زبان چطور؟
 
 Learning a particular programming language is on a totally different plane to learning about an area of computer science — learning a language is much *easier* and much *less valuable*. If you already know a couple of languages, we strongly suggest simply following our guide and fitting language acquisition in the gaps, or leaving it for afterwards. If you’ve learned programming well (such as through *Structure and Interpretation of Computer Programs*), and especially if you have learned compilers, it should take you little more than a weekend to learn the essentials of a new language, after which you can learn about the libraries/tooling/ecosystem on the job.
 
-#### What about trendy technology X?
+#### راجع به فلان تکنولوژی خیلی معروف شده چطور؟
 
 No single technology is important enough that learning to use it should be a core part of your education. On the other hand, it’s great that you’re excited to learn about that thing. The trick is to work backwards from the particular technology to the underlying field or concept, and learn that in depth before seeing how your trendy technology fits into the bigger picture.
 
@@ -239,7 +243,7 @@ No single technology is important enough that learning to use it should be a cor
 
 Look, just try it. Some people find SICP mind blowing, a characteristic shared by very few other books. If you don't like it, you can always try something else and perhaps return to SICP later.
 
-#### Why are you still recommending the Dragon book?
+#### چرا هنوز کتا
 
 The Dragon book is still the most complete single resource for compilers. It gets a bad rap, typically for overemphasizing certain topics that are less fashionable to cover in detail these days, such as parsing. The thing is, the book was never intended to be studied cover to cover, only to provide enough material for an instructor to put together a course. Similarly, a self-learner can choose their own adventure through the book, or better yet follow the suggestions that lecturers of public courses have made in their course outlines.
 
