@@ -18,34 +18,37 @@
 -   شما باید **چه چیز هایی** رو یاد بگیرید و چرا؟
 -   **بهترین کتاب یا دوره ویدئویی** برای هر کدام از آن موضوع ها چیست؟
 
-این راهنما تلاش میکند تا به این سوالات جواب بدهد.
+## توضیح طولانی
+
+همه ۹ موضوع زیر را به ترتیب جدولی که آورده شده یاد بگیرید، از یکی از کتاب یا ویدئوهای اورده شده میتوانید استفاده کنید، ولی بهتر هست هر دو را دنبال کنید. برای هر موضوع، ۱۰۰ تا ۲۰۰ ساعت وقت برای یادگیری بزارید و دوباره به 
+علاقه و شغلی که میخواید انتخاب کنید، فکر کنید :rocket:. 
 
 
-همه ۹ موضوع زیر را به ترتیب جدولی که آورده شده یاد بگیرید، از یکی از کتاب یا ویدئوهای اورده شده میتوانید استفاده کنید، ولی بهتر هست هر دو را دنبال کنید. برای هر موضوع، ۱۰۰ تا ۲۰۰ ساعت وقت برای یادگیری بزارید و دوباره به علاقه و شغلی که میخواید انتخاب کنید، فکر کنید :rocket:. 
 
 |موضوع|دلیل یادگیری|کتاب|ویدئو|
-|:------|:---------|:---|:-----|
-|**[برنامه نویسی](#programming)**|اون آدمی نباشید که مطالب را "کامل درک نمی کرد".|*ساختار و تفسیر برنامه های کامپیوتری* |Brian Harvey’s Berkeley CS 61A|
-|**[معماری کامپیوتر](#architecture)**|اگه ذهنیت درست و محکمی درمورد اینکه یک کامپیوتر چگونه کار میکند نداشته باشید، همه کار های سطح بالاتر شکننده خواهند بود.|*سیستم های رایانه ای: چشم انداز یک برنامه نویس*|Berkeley CS 61C|
-|**[الگوریتم و ساختمان داده](#algorithms)**|اگه ندانید که چجوری از ساختارهایی مثل استک، درخت، صف و گراف استفاده کنید، مشکلات چالشی غیرقابل حل خواهند بود.|*راهنمای طراحی الگوریتم*|Steven Skiena’s lectures|
-|**[Math for CS](#math)**|CS is basically a runaway branch of applied math, so learning math will give you a competitive advantage.|*Mathematics for Computer Science*|Tom Leighton’s MIT 6.042J|
+|------:|---------:|:---|:-----|
+|**[برنامه نویسی](#programming)**|اون آدمی نباشید که مطالب را "کامل درک نمی کرد".|*Structure and Interpretation of Computer Programs* |Brian Harvey’s Berkeley CS 61A|
+|**[معماری کامپیوتر](#architecture)**|اگه ذهنیت درست و محکمی درمورد اینکه یک کامپیوتر چگونه کار میکند نداشته باشید، همه کار های سطح بالاتر شکننده خواهند بود.|*Computer Systems: A Programmer's Perspective*|Berkeley CS 61C|
+|**[الگوریتم و ساختمان داده](#algorithms)**|اگه ندانید که چجوری از ساختارهایی مثل استک، درخت، صف و گراف استفاده کنید، مشکلات چالشی غیرقابل حل خواهند بود.|*The Algorithm Design Manual*|Steven Skiena’s lectures|
+|**[ریاضی برای علوم کامپیوتر](#math)**| علوم کامپیوتر در واقع یک شاخه از ریاضیات است، پس یادگیری ریاضی برای شما یک مزیت مهم محسوب میشود. |*Mathematics for Computer Science*|Tom Leighton’s MIT 6.042J|
 |**[سیستم عامل ها](#operating-systems)**|اکثر کد هایی که شما مینویسید توسط سیستم عامل اجرا میشوند، پس شما باید بدانید انها چگونه باهم ارتباط برقرار میکنند|*سیستم عامل ها : Three Easy Pieces*|Berkeley CS 162|
 |**[شبکه های کامپیوتری](#networking)**|معلوم شد که اینترنت نقش بزرگی بازی میکنه: درک کنید چگونه کار میکند تا از پتانسیل های آن بهره ببرید.|*Computer Networking: A Top-Down Approach*|Stanford CS 144|
-|**[Databases](#databases)**|Data is at the heart of most significant programs, but few understand how database systems actually work.|*Readings in Database Systems*|Joe Hellerstein’s Berkeley CS 186|
-|**[Languages and Compilers](#languages)**|If you understand how languages and compilers actually work, you’ll write better code and learn new languages more easily.|*Crafting Interpreters*|Alex Aiken’s course on edX|
-|**[Distributed Systems](#distributed-systems)**|These days, *most* systems are distributed systems.|*Designing Data-Intensive Applications* by Martin Kleppmann|MIT 6.824|
+|**[پایگاه های داده](#databases)**|داده در قلب مهم ترین برنامه ها قرار دارند، اما تعداد کمی درک میکنند که پایگاه داده ها در واقع چگونه کار میکنند.|*Readings in Database Systems*|Joe Hellerstein’s Berkeley CS 186|
+|**[زبان ها و کامپایلر](#languages)**|اگر شما درک کنید که زبان ها و کامپایلر در واقع چطور کار میکنند، شما کد های بهتری مینویسید و زبان های جدید را ساده تر یاد میگیرید.|*Crafting Interpreters*|Alex Aiken’s course on edX|
+|**[سیستم های توزیع شده](#distributed-systems)**|امروزه اکثر سیستم ها، سیستم های توزیع شده اند.|*Designing Data-Intensive Applications* by Martin Kleppmann|MIT 6.824|
 
 
 ## هنوز خیلی زیاده ؟
 
-If the idea of self-studying 9 topics over multiple years feels overwhelming, we suggest you focus on just two books: *Computer Systems: A Programmer's Perspective* and *Designing Data-Intensive Applications*. In our experience, these two books provide incredibly high return on time invested, particularly for self-taught engineers and bootcamp grads working on networked applications. They may also serve as a "gateway drug" for the other topics and resources listed above.
+ اگر ایده یادگیری 9 موضوع در طی چند سال طاقت فرسا است، ما پیشنهاد میکینم فقط روی دو تا کتاب تمرکز کنید: *Computer Systems: A Programmer's Perspective* و *Designing Data-Intensive Applications*. بر اساس تجربه ما، این دو کتاب بازده بسیار بالایی با صرف وقت کم دارد، مخصوصا برای مهندسان خودآموز و شرکت کنندگان در دوره های بوت کمپی که روی یک برنامه شبکه ای کار میکنند. انها همچنین میتوانند به عنوان دروازه ی ورودی به سر فصل های بالا باشند.
 
 ## چرا علوم کامپیوتر یاد بگیریم؟
 
 
 دو نوع مهندس نرم افزار وجود دارد: آنهایی که علوم کامپیوتر را آنقدر خوب درک میکنند که کار های چالشی و خلاقانه انجام دهند ,و آنهایی که مهندس نرم افزارند چون با چند ابزار سطح بالا آشنایی دارند. 
 
-هر دو خود را مهندس نرم افزار میدانند و هردو تمایل دارند در ابتدای کارشان حقوق یم اندازه دریافت کنند. But Type 1 engineers progress toward more fulfilling and well-remunerated work over time, whether that’s valuable commercial work or breakthrough open-source projects, technical leadership or high-quality individual contributions.
+هر دو خود را مهندس نرم افزار میدانند و هردو تمایل دارند در ابتدای کارشان حقوق یک اندازه دریافت کنند. ولی مهندسان نوع اول در طی زمان در پروژه های با در امد بالاتر و رضایت بخش تری استخدام میشوند، خواه این کار ارزش تجاری داشته باشد یا همکاری در یک پروژه اوپن سورس باشد، رهبری فنی یا مشارکت فردی سطح بالا در پروژه باشد.
+
 
 Type 1 engineers find ways to learn computer science in depth, whether through conventional means or by relentlessly learning throughout their careers. Type 2 engineers typically stay at the surface, learning specific tools and technologies rather than their underlying foundations, only picking up new skills when the winds of technical fashion change.
 
@@ -53,7 +56,7 @@ Currently, the number of people entering the industry is rapidly increasing, whi
 
 [![](./Teach%20Yourself%20Computer%20Science_files/bilotta-tweet.png)](https://twitter.com/jenna/status/838161631662092289)
 
-## راهنما برای هر سر فصل
+## راهنما برای هر موضوع
 
 
 ### برنامه نویسی
