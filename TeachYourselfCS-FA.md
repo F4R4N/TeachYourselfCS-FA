@@ -236,20 +236,20 @@ freeCodeCamp is focused mostly on programming, not computer science. For why you
 
 #### راجع به فلان زبان چطور؟
 
-Learning a particular programming language is on a totally different plane to learning about an area of computer science — learning a language is much *easier* and much *less valuable*. If you already know a couple of languages, we strongly suggest simply following our guide and fitting language acquisition in the gaps, or leaving it for afterwards. If you’ve learned programming well (such as through *Structure and Interpretation of Computer Programs*), and especially if you have learned compilers, it should take you little more than a weekend to learn the essentials of a new language, after which you can learn about the libraries/tooling/ecosystem on the job.
+یادگیری یک زبان برنامه نویسی خاص کاملا با یادگیری یک حوزه علوم کامپیوتر متفاوت است - یادگیری یک زبان خیلی *ساده تر* و *کم ارزش تر* است. اگر شما در حال حاضر چند زبان برنامه نویسی بلد هستید، ما قویا پیشنهاد میکنیم راهنمای ما را دنبال کنید و با تحصیل کامل زبان خلاء ها را پر کنید، یا یادگیری آن را به زمان دیگری موکول کنید. اگر شما برنامه نویسی را خوب یادگرفته باشید (مانند یادگیری از طریق *Structure and Interpretation of Computer Programs*)، مخصوصا اگر شما کامپایلر ها را یاد گرفته باشید، برای شما تقریبا کمی بیشتر از یک آخر هفته طول میکشد تا موارد مهم یک زبان جدید را یاد بگیرید، پس از آن شما میتوانید درباره ی کتابخانه ها/ ابزار ها/ محیط در بازار کار آن زبان یاد بگیرید.
+
 
 #### راجع به فلان تکنولوژی خیلی معروف شده چطور؟
 
-No single technology is important enough that learning to use it should be a core part of your education. On the other hand, it’s great that you’re excited to learn about that thing. The trick is to work backwards from the particular technology to the underlying field or concept, and learn that in depth before seeing how your trendy technology fits into the bigger picture.
+هیچ تکنولوژی واحدی آنقدر مهم نیست که یادگیری استفاده از آن بخش اصلی تحصیل شما به آن اختصاص داده شود. با این حال این خیلی خوب است که شما برای یادگیری ان تکنولوژی مشتاق هستید. راهکار این است که به مسئله برعکس نگاه کنیم، از سمت آن تکنولوژی به زیر ساخت ها و مفهوم اصلی آن نگاه کنیم و قبل از اینکه ببینیم چطور تکنولوژی مدرن ما در سطح بالا کار میکند آن را عمیق یاد بگیریم.
 
 #### چرا هنوز کتاب SICP رو پیشنهاد میکنم؟
 
-Look, just try it. Some people find SICP mind blowing, a characteristic shared by very few other books. If you don't like it, you can always try something else and perhaps return to SICP later.
+ببین، فقط امتحانش کن. برخی SICP را حیرت آور میدانند، کتاب هایی با شخصیتی همچون شخصیت این کتاب بسیار کم هستند. اگر آن را دوست نداشتید، همیشه میتوانید چیز دیگری را امتحان کنید و شاید بعدا دوباره به SICP برگردید.
 
 #### چرا هنوز کتاب Dragon رو پیشنهاد میکنم؟
+
 کتاب Dragon همچنان کامل ترین منبع برای یادگیری کامپایلر ها است. معمولا برای تاکید بر موضوعاتی که اامروزه پوشش دادن آنها کمتر مد است مثل parsing اسمش بد در رفته است.مسئله این است که این کتاب هرگز تهیه نشد تا جلد به جلد مطالعه شود بلکه فقط برای دادن مطالب کافی به یک مدرس برای درست کردن یه دوره ساخته شد. به این ترتیب یک خودآموز میتواند راه خود را برای یاد گیری مطالب کتاب پیدا کند، یا بهتر است از سرفصل های پیشنهاد شده مدرسان دوره های عمومی استفاده کند.
-
-
 
 #### چگونه میتونم کتاب ها را ارزان تهیه کنم؟
 
