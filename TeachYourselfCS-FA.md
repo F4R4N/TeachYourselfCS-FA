@@ -3,7 +3,7 @@
 # خودتون علوم کامپیوتر را یاد بگیرید.
 </div>
 
->This document is a persian(farsi) translation of TeachYourselfCS, written by [Ozan Onay](https://twitter.com/oznova_) and [Myles Byrne](https://twitter.com/quackingduck). For more information about this translation, please refer to [the end of this document](#مترجم-این-راهنما-چه-کسی-است؟).
+>This document is a persian (farsi) translation of TeachYourselfCS, written by [Ozan Onay](https://twitter.com/oznova_) and [Myles Byrne](https://twitter.com/quackingduck). For more information about this translation, please refer to [the end of this document](#مترجم-این-راهنما-چه-کسی-است؟).
 
 <div dir="rtl">
 
@@ -31,7 +31,7 @@
 |**[معماری کامپیوتر](#architecture)**|اگه ذهنیت درست و محکمی درمورد اینکه یک کامپیوتر چگونه کار میکند نداشته باشید، همه کار های سطح بالاتر شکننده خواهند بود.|*Computer Systems: A Programmer's Perspective*|Berkeley CS 61C|
 |**[الگوریتم و ساختمان داده](#algorithms)**|اگه ندانید که چجوری از ساختارهایی مثل استک، درخت، صف و گراف استفاده کنید، مشکلات چالشی غیرقابل حل خواهند بود.|*The Algorithm Design Manual*|Steven Skiena’s lectures|
 |**[ریاضی برای علوم کامپیوتر](#math)**| علوم کامپیوتر در واقع یک شاخه از ریاضیات است، پس یادگیری ریاضی برای شما یک مزیت مهم محسوب میشود. |*Mathematics for Computer Science*|Tom Leighton’s MIT 6.042J|
-|**[سیستم عامل ها](#operating-systems)**|اکثر کد هایی که شما مینویسید توسط سیستم عامل اجرا میشوند، پس شما باید بدانید انها چگونه باهم ارتباط برقرار میکنند|*سیستم عامل ها : Three Easy Pieces*|Berkeley CS 162|
+|**[سیستم عامل ها](#operating-systems)**|اکثر کد هایی که شما مینویسید توسط سیستم عامل اجرا میشوند، پس شما باید بدانید انها چگونه باهم ارتباط برقرار میکنند|*operating systems : Three Easy Pieces*|Berkeley CS 162|
 |**[شبکه های کامپیوتری](#networking)**|معلوم شد که اینترنت نقش بزرگی بازی میکنه: درک کنید چگونه کار میکند تا از پتانسیل های آن بهره ببرید.|*Computer Networking: A Top-Down Approach*|Stanford CS 144|
 |**[پایگاه های داده](#databases)**|داده در قلب مهم ترین برنامه ها قرار دارند، اما تعداد کمی درک میکنند که پایگاه داده ها در واقع چگونه کار میکنند.|*Readings in Database Systems*|Joe Hellerstein’s Berkeley CS 186|
 |**[زبان ها و کامپایلر](#languages)**|اگر شما درک کنید که زبان ها و کامپایلر در واقع چطور کار میکنند، شما کد های بهتری مینویسید و زبان های جدید را ساده تر یاد میگیرید.|*Crafting Interpreters*|Alex Aiken’s course on edX|
@@ -247,8 +247,9 @@ No single technology is important enough that learning to use it should be a cor
 Look, just try it. Some people find SICP mind blowing, a characteristic shared by very few other books. If you don't like it, you can always try something else and perhaps return to SICP later.
 
 #### چرا هنوز کتاب Dragon رو پیشنهاد میکنم؟
+کتاب Dragon همچنان کامل ترین منبع برای یادگیری کامپایلر ها است. معمولا برای تاکید بر موضوعاتی که اامروزه پوشش دادن آنها کمتر مد است مثل parsing اسمش بد در رفته است.مسئله این است که این کتاب هرگز تهیه نشد تا جلد به جلد مطالعه شود بلکه فقط برای دادن مطالب کافی به یک مدرس برای درست کردن یه دوره ساخته شد. به این ترتیب یک خودآموز میتواند راه خود را برای یاد گیری مطالب کتاب پیدا کند، یا بهتر است از سرفصل های پیشنهاد شده مدرسان دوره های عمومی استفاده کند.
 
-The Dragon book is still the most complete single resource for compilers. It gets a bad rap, typically for overemphasizing certain topics that are less fashionable to cover in detail these days, such as parsing. The thing is, the book was never intended to be studied cover to cover, only to provide enough material for an instructor to put together a course. Similarly, a self-learner can choose their own adventure through the book, or better yet follow the suggestions that lecturers of public courses have made in their course outlines.
+
 
 #### چگونه میتونم کتاب ها را ارزان تهیه کنم؟
 
@@ -258,7 +259,7 @@ The Dragon book is still the most complete single resource for compilers. It get
 
 این راهنما درابتدا توسط [Oz Nova](https://twitter.com/oznova_) و [Myles Byrne](https://twitter.com/quackingduck) نوشته شده بود که سال ۱۳۹۹ توسط Oz بروزنویسی شد. این مطالب براساس تجربه ایشان در زمینه تدریس مبانی علوم کامپیوتر به بیش از ۱۰۰۰ خودآموز و دانشجوی مهندسی داخل سان فرانسیسکو بصورت آنلاین بود. از همه دانشجوهایی که برای کامل کردن منابع خودآموزی کمک کردن سپاسگزاری میکنیم.
 
-#### مترجم این راهنما چه کسی است؟
+### مترجم این راهنما چه کسی است؟
 سلام من [فاران تقوی](https://github.com/F4R4N) هستم برنامه نویس خودآموز!
 اگر اشکالی در این ترجمه پیدا کردید حتما در [گیت هاب](https://github.com/F4R4N/TeachYourselfCS-FA) پول ریکوئست بزنید.تا اشکالات این راهنما را برطرف کنیم.
 از آنجایی که این مقاله میتواند به بسیاری از علاقه مندان کمک کند،تلاش میکنم تا جای ممکن اشکالات آن را برطرف کنم و هرگونه کمکی باعث خوشحالی من است.
