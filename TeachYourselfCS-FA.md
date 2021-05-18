@@ -224,6 +224,7 @@ We have in mind that you are a self-taught software engineer, bootcamp grad or p
 
 #### در باره هوش مصنوعی/ گرافیک/ فلان موضوع مهم چطور؟
 
+ما سعی کردیم لیست موضوعات علوم کامپیوتر مورد بحث در این راهنما را به موضوعاتی که فکر میکنیم *هر مهندس نرم افزار آموزش دیده ای* باید بداند محدود کنیم، صرف نظر از تخصص افراد و این صنعت، بلکه سعی کرده ایم روی سیستم ها تمرکز کنیم. طبق تجربه ما، 
 We’ve tried to limit our list to computer science topics that we feel *every practicing software engineer* should know, irrespective of specialty or industry, but with a focus on systems. In our experience, these will be the highest ROI topics for the overwhelming majority of self-taught engineers and bootcamp grads, and provide a solid foundation for further study. Subsequently, you’ll be in a much better position to pick up textbooks or papers and learn the core concepts without much guidance. Here are our suggested starting points for a couple of common “electives”:
 
 -   For artificial intelligence: do [Berkeley’s intro to AI course](http://ai.berkeley.edu/) by watching the videos and completing the excellent Pacman projects. As a textbook, use Russell and Norvig’s *Artificial Intelligence: A Modern Approach*.
