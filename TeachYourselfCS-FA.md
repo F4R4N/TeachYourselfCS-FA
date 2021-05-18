@@ -1,13 +1,14 @@
 <div dir="rtl">
 
 # خودتون علوم کامپیوتر را یاد بگیرید.
+
 </div>
 
->This document is a persian (farsi) translation of TeachYourselfCS, written by [Ozan Onay](https://twitter.com/oznova_) and [Myles Byrne](https://twitter.com/quackingduck). For more information about this translation, please refer to [the end of this document](#مترجم-این-راهنما-چه-کسی-است؟).
+>This document is a persian (farsi) translation of TeachYourselfCS, written by [Ozan Onay](https://twitter.com/oznova_) and [Myles Byrne](https://twitter.com/quackingduck). For more information about this translation, please refer to [the end of this document](#translator).
 
 <div dir="rtl">
 
->برای اطلاعات بیشتر در مورد ترجمه به [پایین فایل](#مترجم-این-راهنما-چه-کسی-است؟) مراجعه کنید.
+>برای اطلاعات بیشتر در مورد ترجمه به [پایین فایل](#translator) مراجعه کنید.
 
 نکته: این راهنما اردیبهشت ۱۳۹۹ دوباره نوشته شد. برای نسخه قبلی(سال 2016) [اینجا](https://teachyourselfcs.com/2016/) کلیک کنید.
 
@@ -42,15 +43,14 @@
 
  اگر ایده یادگیری 9 موضوع در طی چند سال طاقت فرسا است، ما پیشنهاد میکینم فقط روی دو تا کتاب تمرکز کنید: *Computer Systems: A Programmer's Perspective* و *Designing Data-Intensive Applications*. بر اساس تجربه ما، این دو کتاب بازده بسیار بالایی با صرف وقت کم دارد، مخصوصا برای مهندسان خودآموز و شرکت کنندگان در دوره های بوت کمپی که روی یک برنامه شبکه ای کار میکنند. انها همچنین میتوانند به عنوان دروازه ی ورودی به سر فصل های بالا باشند.
 
+<span id="why"></span>
 ## چرا علوم کامپیوتر یاد بگیریم؟
 
+دو دسته مهندس نرم افزار وجود دارد: آنهایی که علوم کامپیوتر را آنقدر خوب درک میکنند که کار های چالشی و خلاقانه انجام دهند ,و آنهایی که مهندس نرم افزارند چون با چند ابزار سطح بالا آشنایی دارند. 
 
-دو نوع مهندس نرم افزار وجود دارد: آنهایی که علوم کامپیوتر را آنقدر خوب درک میکنند که کار های چالشی و خلاقانه انجام دهند ,و آنهایی که مهندس نرم افزارند چون با چند ابزار سطح بالا آشنایی دارند. 
+هر دو دسته خود را مهندس نرم افزار میدانند و هردو تمایل دارند در ابتدای کارشان حقوق یک اندازه دریافت کنند. ولی مهندسان دسته اول در طی زمان در پروژه های با در امد بالاتر و رضایت بخش تری استخدام میشوند، خواه این کار ارزش تجاری داشته باشد یا همکاری در یک پروژه اوپن سورس باشد، رهبری فنی یا مشارکت فردی سطح بالا در پروژه باشد.
 
-هر دو خود را مهندس نرم افزار میدانند و هردو تمایل دارند در ابتدای کارشان حقوق یک اندازه دریافت کنند. ولی مهندسان نوع اول در طی زمان در پروژه های با در امد بالاتر و رضایت بخش تری استخدام میشوند، خواه این کار ارزش تجاری داشته باشد یا همکاری در یک پروژه اوپن سورس باشد، رهبری فنی یا مشارکت فردی سطح بالا در پروژه باشد.
-
-
-Type 1 engineers find ways to learn computer science in depth, whether through conventional means or by relentlessly learning throughout their careers. Type 2 engineers typically stay at the surface, learning specific tools and technologies rather than their underlying foundations, only picking up new skills when the winds of technical fashion change.
+مهندسان دسته اول علوم کامپیوتر را عمیق یاد گرفته اند، چه از طرق یادگیری به شکل متعارف و چه از طریق یادگیری پیوسته در طی حرفه ی خود. مهندسان دسته دوم معمولا در سطح باقی میمانند و در یادگیری عمیق نمیشوند، به جای یادگیری پایه های اساسی یک مبحث به یادگیری ابزار و تکنولوژی های آن میپردازند، و فقط زمانی یک مهارت جدید یاد میگیرند که باد تکنوژی ها نو از آن سمت شروع به وزیدن کند.
 
 Currently, the number of people entering the industry is rapidly increasing, while the number of CS grads is relatively static. This oversupply of Type 2 engineers is starting to reduce their employment opportunities and keep them out of the industry’s more fulfilling work. Whether you’re striving to become a Type 1 engineer or simply looking for more job security, learning computer science is the only reliable path.
 
@@ -58,7 +58,7 @@ Currently, the number of people entering the industry is rapidly increasing, whi
 
 ## راهنما برای هر موضوع
 
-
+<span id="programming"></span>
 ### برنامه نویسی
 
 Most undergraduate CS programs start with an “introduction” to computer programming. The best versions of these courses cater not just to novices, but also to those who missed beneficial concepts and programming models while first learning to code.
@@ -77,6 +77,7 @@ Finally, a point of clarification: this guide is NOT designed for those who are 
 
 [![Structure and Interpretation of Computer Programs](./Teach%20Yourself%20Computer%20Science_files/sicp.jpg)](https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html)
 
+<span id="architecture"></span>
 ### معماری کامپیوتر
 
 Computer Architecture—sometimes called “computer systems” or “computer organization”—is an important first look at computing below the surface of software. In our experience, it’s the most neglected area among self-taught software engineers.
@@ -102,6 +103,7 @@ Once you feel comfortable with the content of Nand2Tetris, we suggest either ret
 – Mike Acton, Engine Director at Insomniac Games
 ([watch his CppCon talk](https://www.youtube.com/watch?v=rX0ItVEVjHc))
 
+<span id="algorithms"></span>
 ### الگوریتم و ساختار داده
 
 We agree with decades of common wisdom that familiarity with common algorithms and data structures is one of the most empowering aspects of a computer science education. This is also a great place to train one’s general problem-solving abilities, which will pay off in every other area of study.
@@ -120,6 +122,7 @@ Finally, we strongly recommend *[How to Solve It](https://smile.amazon.com/How-S
 
 — Richard Hamming
 
+<span id="math"></span>
 ### ریاضی برای علوم کامپیوتر
 
 In some ways, computer science is an overgrown branch of applied mathematics. While many software engineers try—and to varying degrees succeed—at ignoring this, we encourage you to embrace it with direct study. Doing so successfully will give you an enormous competitive advantage over those who don’t.
@@ -136,6 +139,7 @@ For linear algebra, we suggest starting with the [Essence of linear algebra](htt
 
 — John von Neumann
 
+<span id="operating-systems"></span>
 ### سیستم های عامل
 
 *[Operating System Concepts](https://www.amazon.com/dp/1118063333/)* (the “Dinosaur book”) and *[Modern Operating Systems](https://www.amazon.com/dp/013359162X/)* are the “classic” books on operating systems. Both have attracted criticism for their lack of clarity and general student unfriendliness.
@@ -148,6 +152,7 @@ A great way to consolidate your understanding of operating systems is to read th
 
 [![Operating Systems: Three Easy Pieces](./Teach%20Yourself%20Computer%20Science_files/ostep.jpeg)](http://pages.cs.wisc.edu/~remzi/OSTEP/)
 
+<span id="networking"></span>
 ### شبکه های کامپیوتری
 
 Given that so much of software engineering is on web servers and clients, one of the most immediately valuable areas of computer science is computer networking. Our self-taught students who methodically study networking find that they finally understand terms, concepts and protocols they’d been surrounded by for years.
@@ -162,6 +167,7 @@ For those who prefer video lectures, we suggest Stanford’s [*Introduction to C
 
 [![Computer Networking: A Top-Down Approach](./Teach%20Yourself%20Computer%20Science_files/top-down.jpg)](https://smile.amazon.com/Computer-Networking-Top-Down-Approach-7th/dp/0133594149/)
 
+<span id="databases"></span>
 ### پایگاه داده
 
 It takes more work to self-learn about database systems than it does with most other topics. It’s a relatively new (i.e. post 1970s) field of study with strong commercial incentives for ideas to stay behind closed doors. Additionally, many potentially excellent textbook authors have preferred to join or start companies instead.
@@ -178,6 +184,7 @@ Finally, data modeling is a neglected and poorly taught aspect of working with d
 
 [![Readings in Database Systems](./Teach%20Yourself%20Computer%20Science_files/redbook.jpg)](http://www.redbook.io/) [![Data and Reality](./Teach%20Yourself%20Computer%20Science_files/data-reality.jpg)](https://www.amazon.com/Data-Reality-Perspective-Perceiving-Information/dp/1935504215)
 
+<span id="languages"></span>
 ### زبان ها و کامپایلر ها
 
 Most programmers learn languages, whereas most computer scientists learn *about* languages. This gives the computer scientist a distinct advantage over the programmer, even in the domain of programming! Their knowledge generalizes; they are able to understand the operation of a new language more deeply and quickly than those who have merely learned specific languages.
@@ -194,6 +201,7 @@ If you elect to use the Dragon Book, it’s almost essential that you cherry-pic
 
 — Ras Bodik at the start of his compilers course
 
+<span id="distributed-systems"></span>
 ### سیستم های توزیع شده
 
 As computers have increased in number, they have also *spread*. Whereas businesses would previously purchase larger and larger mainframes, it’s typical now for even very small applications to run across multiple machines. Distributed systems is the study of how to reason about the trade-offs involved in doing so.
@@ -223,16 +231,16 @@ We’ve tried to limit our list to computer science topics that we feel *every p
 -   For computer graphics: work through [Berkeley’s CS 184](http://inst.eecs.berkeley.edu/~cs184/fa12/onlinelectures.html) material, and use [Computer Graphics: Principles and Practice](https://www.amazon.com/Computer-Graphics-Principles-Practice-3rd/dp/0321399528) as a textbook.
 
 #### یادگیری موارد پیشنهاد شده چقدر سخت است؟
+در واقع، همه این مباحث مقداری با هم اشتراک دارند، و بصورت چرخشی به یکدیگر باز میگردند. برای مثال رابطه بین ریاضیات گسسته و الگوریتم: یادگیری ریاضی به شما کمک میکند الگوریتم ها را با عمق بیشتری درک کنید، ولی اگر اول الگوریتم را یاد بگیرید به شما انگیزه میدهد و زمینه را برای یاد گیری ریاضیات گسسته فراهم میکند. در حالت ایده آل در طول زندگی حرفه ای چندین و چند بار این مباحث را خواهید دید.
 
-Realistically, all of these subjects have a significant amount of overlap, and refer to one another cyclically. Take for instance the relationship between discrete math and algorithms: learning math first would help you analyze and understand your algorithms in greater depth, but learning algorithms first would provide greater motivation and context for discrete math. Ideally, you’d revisit both of these topics many times throughout your career.
+ترتیب پیشنهادی ما برای یاد گیری مباحث فقط به شما کمک میکند *شروع کنید*... اگر ترتیب بهتری برای یادگیری پیدا کردید، از آن استفاده کنید. از نظر ما مهم ترین "ها نیاز پیش نیاز": یادگیری معماری کامپیوتر قبل از یادگیری سیستم عامل و پایگاه داده است، و یادگیری شبکه و سیستم عامل قبل از یادگیری سیستم های توزیع شده.
 
-As such, our suggested sequencing is mostly there to help you *just get started*… if you have a compelling reason to prefer a different sequence, then go for it. The most significant “pre-requisites” in our opinion are: computer architecture before operating systems or databases, and networking and operating systems before distributed systems.
+As such, our suggested sequencing is mostly there to help you *just get started* if you have a compelling reason to prefer a different sequence, then go for it. The most significant “pre-requisites” in our opinion are: computer architecture before operating systems or databases, and networking and operating systems before distributed systems.
 
-#### چطور این رو با برنامه های درسی جامعه اوپن سورس یا freeCodeCamp مقایسه میکنید؟
+#### چطور این راهنما رو با برنامه های درسی جامعه اوپن سورس یا freeCodeCamp مقایسه میکنید؟
 
-When this guide was first written in 2016, the [OSS guide](https://github.com/open-source-society/computer-science) had too many subjects, suggested inferior resources for many of them, and provided no rationale or guidance around why or what aspects of particular courses are valuable. We strove to limit our list of courses to those which you *really should know* as a software engineer, irrespective of your specialty, and to help you understand why each course is included. In the subsequent years, the OSS guide has improved, but we still think that this one provides a clearer, more cohesive path.
-
-freeCodeCamp is focused mostly on programming, not computer science. For why you might want to learn computer science, see [above](https://teachyourselfcs.com/#why). If you are new to programming, we suggest prioritizing that, and returning to this guide in a year or two.
+وقتی این راهنما برای اولین بار در سال 2016 نوشته شد، [راهنمای OSS](https://github.com/open-source-society/computer-science)، مباحث بسیار زیادی را در خود جای داده بود، و منابع کمی را برای آنها پیشنهاد کره بود، و هیچ دلیل منطقی یا راهنمایی در مورد اینکه چرا این دوره ها برای یادگیری مناسبند یا چه جنبه هایی از کدام دوره مهم است اراعه نکرده بود. ما تلاش کرده ایم یک لیست از مباحثی که شما به عنوان یک مهندس نرم افزار بدون در نظر گرفتن تخصصتان *واقا باید بدانید* محدود کنیم، و به شما کمک کنیم درک کنید که چرا هر کدام از آنها در این لیست وجود دارند و چرا برای شما مناسبند. در طی سال ها راهنمای OSS بهتر شد، ولی ما همچنان بر این باور هستیم که راهنمای ما مسیر منسجم تر و واضح تری را به شما نشان میدهد.
+تمرکز freeCodeCamp بیشتر بر برنامه نویسی است و نه علوم کامپیوتر. برای اینکه بدانید چرا میخواهید علوم کامپیوتر را یاد بگیرید، به [بالا](#why) بروید. اگر تازه شروع به برنامه نویسی کرده اید، پیشنهاد میکنیم یادگیری تان را اولویت بندی کنید، و بعد از یکی دو سال به این راهنما برگردید.
 
 #### راجع به فلان زبان چطور؟
 
@@ -259,8 +267,9 @@ freeCodeCamp is focused mostly on programming, not computer science. For why you
 
 این راهنما درابتدا توسط [Oz Nova](https://twitter.com/oznova_) و [Myles Byrne](https://twitter.com/quackingduck) نوشته شده بود که سال ۱۳۹۹ توسط Oz بروزنویسی شد. این مطالب براساس تجربه ایشان در زمینه تدریس مبانی علوم کامپیوتر به بیش از ۱۰۰۰ خودآموز و دانشجوی مهندسی داخل سان فرانسیسکو بصورت آنلاین بود. از همه دانشجوهایی که برای کامل کردن منابع خودآموزی کمک کردن سپاسگزاری میکنیم.
 
+<span id="translator"></span>
 ### مترجم این راهنما چه کسی است؟
-سلام من [فاران تقوی](https://github.com/F4R4N) هستم برنامه نویس خودآموز!
-اگر اشکالی در این ترجمه پیدا کردید حتما در [گیت هاب](https://github.com/F4R4N/TeachYourselfCS-FA) پول ریکوئست بزنید.تا اشکالات این راهنما را برطرف کنیم.
+سلام من <a href="https://github.com/F4R4N" target="_blank">فاران تقوی</a> هستم برنامه نویس خودآموز!
+اگر اشکالی در این ترجمه پیدا کردید حتما در <a href="https://github.com/F4R4N/TeachYourselfCS-FA" target="_blank">گیت هاب</a> پول ریکوئست بزنید.تا اشکالات این راهنما را برطرف کنیم.
 از آنجایی که این مقاله میتواند به بسیاری از علاقه مندان کمک کند،تلاش میکنم تا جای ممکن اشکالات آن را برطرف کنم و هرگونه کمکی باعث خوشحالی من است.
 </div>
