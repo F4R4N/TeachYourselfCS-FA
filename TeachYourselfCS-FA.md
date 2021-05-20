@@ -224,19 +224,18 @@ We have in mind that you are a self-taught software engineer, bootcamp grad or p
 
 #### در باره هوش مصنوعی/ گرافیک/ فلان موضوع مهم چطور؟
 
-ما سعی کردیم لیست موضوعات علوم کامپیوتر مورد بحث در این راهنما را به موضوعاتی که فکر میکنیم *هر مهندس نرم افزار آموزش دیده ای* باید بداند محدود کنیم، صرف نظر از تخصص افراد و این صنعت، بلکه سعی کرده ایم روی سیستم ها تمرکز کنیم. طبق تجربه ما، 
-We’ve tried to limit our list to computer science topics that we feel *every practicing software engineer* should know, irrespective of specialty or industry, but with a focus on systems. In our experience, these will be the highest ROI topics for the overwhelming majority of self-taught engineers and bootcamp grads, and provide a solid foundation for further study. Subsequently, you’ll be in a much better position to pick up textbooks or papers and learn the core concepts without much guidance. Here are our suggested starting points for a couple of common “electives”:
+ما سعی کردیم لیست موضوعات علوم کامپیوتر مورد بحث در این راهنما را به موضوعاتی که فکر میکنیم *هر مهندس نرم افزار آموزش دیده ای* باید بداند محدود کنیم، صرف نظر از تخصص افراد و این صنعت، بلکه سعی کرده ایم روی سیستم ها تمرکز کنیم. طبق تجربه ما، این مباحث و موضوعات بیشترین بازده را برای اکثر مهندسان خودآموز یا فارغ التحصیلان بوت کمپ ها دارد، و زیر ساخت محکم و خوبی را برای مطالعات بیشتر در این زمینه فراهم میکند. متعاقبا، شما در موقعیت بهتری قرار میگیرید، به گونه ای که میتوانید کتاب ها و راهنما های مختلف را خوانده و بدون راهنمایی و صرف وقتای زیاد مباحث اصلی را یاد بگیرید. در اینجا نقاط شروع پیشنهادی ما برای چند "انتخاب" رایج آورده شده است:
 
--   For artificial intelligence: do [Berkeley’s intro to AI course](http://ai.berkeley.edu/) by watching the videos and completing the excellent Pacman projects. As a textbook, use Russell and Norvig’s *Artificial Intelligence: A Modern Approach*.
--   For machine learning: do Andrew Ng’s Coursera course. Be patient, and make sure you understand the fundamentals before racing off to shiny new topics like deep learning.
+-	برای هوش مصنوعی: دوره [Berkeley’s intro to AI course](http://ai.berkeley.edu/) را با دیدن ویدیو ها و کامل کردن [پروژه پک من](http://ai.berkeley.edu/project_overview.html) یاد بگیرید. و کتاب پیشنهادی ما کتاب *Artificial Intelligence: A Modern Approach* از <span title="Russell">"راسل"</span> و <span title="Norvig">"نورویگ"</span> است.
+-	برای یادگیری ماشین: دوره coursera از Andrew Ng را انجام دهید. صبور باشید، و مطمئن باشید که قبل از یادگیری سرفصل های جذاب و توی چشم مثل deep learning ابتدا اساس آن را یاد بگیرید.
+-	
 -   For computer graphics: work through [Berkeley’s CS 184](http://inst.eecs.berkeley.edu/~cs184/fa12/onlinelectures.html) material, and use [Computer Graphics: Principles and Practice](https://www.amazon.com/Computer-Graphics-Principles-Practice-3rd/dp/0321399528) as a textbook.
 
 #### یادگیری موارد پیشنهاد شده چقدر سخت است؟
 در واقع، همه این مباحث مقداری با هم اشتراک دارند، و بصورت چرخشی به یکدیگر باز میگردند. برای مثال رابطه بین ریاضیات گسسته و الگوریتم: یادگیری ریاضی به شما کمک میکند الگوریتم ها را با عمق بیشتری درک کنید، ولی اگر اول الگوریتم را یاد بگیرید به شما انگیزه میدهد و زمینه را برای یاد گیری ریاضیات گسسته فراهم میکند. در حالت ایده آل در طول زندگی حرفه ای چندین و چند بار این مباحث را خواهید دید.
 
-ترتیب پیشنهادی ما برای یاد گیری مباحث فقط به شما کمک میکند *شروع کنید*... اگر ترتیب بهتری برای یادگیری پیدا کردید، از آن استفاده کنید. از نظر ما مهم ترین "ها نیاز پیش نیاز": یادگیری معماری کامپیوتر قبل از یادگیری سیستم عامل و پایگاه داده است، و یادگیری شبکه و سیستم عامل قبل از یادگیری سیستم های توزیع شده.
+ترتیب پیشنهادی ما برای یاد گیری مباحث فقط به شما کمک میکند *شروع کنید*... اگر ترتیب بهتری برای یادگیری پیدا کردید، از آن استفاده کنید. از نظر ما مهم ترین "پیش نیاز ها": یادگیری معماری کامپیوتر قبل از یادگیری سیستم عامل و پایگاه داده است، و یادگیری شبکه و سیستم عامل قبل از یادگیری سیستم های توزیع شده.
 
-As such, our suggested sequencing is mostly there to help you *just get started* if you have a compelling reason to prefer a different sequence, then go for it. The most significant “pre-requisites” in our opinion are: computer architecture before operating systems or databases, and networking and operating systems before distributed systems.
 
 #### چطور این راهنما رو با برنامه های درسی جامعه اوپن سورس یا freeCodeCamp مقایسه میکنید؟
 
