@@ -59,13 +59,13 @@
 
 <span id="programming"></span>
 ### برنامه نویسی
-اکثر برنامه های علوم کامپیوتر در مقطع کارشناسی با "مقدمه ای" به برنامه نویسی کامپیوتر آغاز میشوند. 
-Most undergraduate CS programs start with an “introduction” to computer programming. The best versions of these courses cater not just to novices, but also to those who missed beneficial concepts and programming models while first learning to code.
+اکثر برنامه های علوم کامپیوتر در مقطع کارشناسی با یک "مقدمه" بر برنامه نویسی کامپیوتر آغاز میشوند. نسخه های خوب این دوره ها نه تنها نیاز های تازه کاران در این زمینه را فراهم میکند، بلکه برای آنهایی که در ابتدای یادگیری شان مفاهیم و مدل های برنامه نویسی را یاد نگرفته اند هم مفید است.
 
-Our standard recommendation for this content is the classic *Structure and Interpretation of Computer Programs*, which is available online for free both as [a book](https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html), and as a set of [MIT video lectures](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video-lectures/). While those lectures are great, our video suggestion is actually [Brian Harvey’s SICP lectures](https://archive.org/details/ucberkeley-webcast-PL3E89002AA9B9879E?sort=titleSorter) (for the 61A course at Berkeley) instead. These are more refined and better targeted at new students than are the MIT lectures.
+پیشنهاد استاندارد ما برای یادگیری برنامه نویسی کامپیوتر کلاسیک است، کتاب *Structure and Interpretation of Computer Programs*، که به صورت رایگان و آنلاین، هم به عنوان [کتاب](https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html)، و هم در قالب مجموعه [ویدیو های سخنرانی MIT](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video-lectures/) در دسترس است. با اینکه ویدیو های دانشگاه MIT  خیلی خوب هستند، پیشنهاد ما برای دوره های ویدیو ای در واقع [سخنرانی های SICP  برایان هاروی ](https://archive.org/details/ucberkeley-webcast-PL3E89002AA9B9879E?sort=titleSorter) است. این ویدیو ها بیشتر از سخنرانی های MIT دانش آموزان جدید را هدف گرفته است.
 
-We recommend working through at least the first three chapters of SICP and doing the exercises. For additional practice, work through a set of small programming problems like those on [exercism](http://exercism.io/).
+ما پیشنهاد میکنیم سه فصل اول کتاب "SICP" را بخوانید و تمارین ان را انجام دهید. برای تمرینات اضافه تر، مشکلات و مسائل کوچک برنامه نویسی مانند نمونه های در سایت [exercism](http://exercism.io/) را حل کنید.
 
+اولین بار که این راهنما در سال 2016 منتشر شد، یکی از سوالات متداولی که از ما پرسیده شد این بود که آیا ما دوره های 61A که دوباره توسط جان دنیرو تدریس شده است را پیشنهاد میکنیم یا 
 Since this guide was first published in 2016, one of the most commonly asked questions has been whether we’d now recommend recordings of a more recent iteration of 61A taught by John DeNero, and/or the corresponding book *[Composing Programs](https://composingprograms.com/)*, which is “in the tradition of SICP” but uses Python. We think the DeNero resources are also great, and some students may end up preferring them, but we still suggest SICP, Scheme, and Brian Harvey’s lectures as the first set of resources to try.
 
 Why? Because SICP is unique in its ability—at least potentially—to alter your fundamental beliefs about computers and programming. Not everybody will experience this. Some will hate the book, others won't get past the first few pages. But the potential reward makes it worth trying.
@@ -245,7 +245,7 @@ No matter the choice of textbook or other secondary resources, study of distribu
 یادگیری یک زبان برنامه نویسی خاص کاملا با یادگیری یک حوزه علوم کامپیوتر متفاوت است - یادگیری یک زبان خیلی *ساده تر* و *کم ارزش تر* است. اگر شما در حال حاضر چند زبان برنامه نویسی بلد هستید، ما قویا پیشنهاد میکنیم راهنمای ما را دنبال کنید و با تحصیل کامل زبان خلاء ها را پر کنید، یا یادگیری آن را به زمان دیگری موکول کنید. اگر شما برنامه نویسی را خوب یادگرفته باشید (مانند یادگیری از طریق *Structure and Interpretation of Computer Programs*)، مخصوصا اگر شما کامپایلر ها را یاد گرفته باشید، برای شما تقریبا کمی بیشتر از یک آخر هفته طول میکشد تا موارد مهم یک زبان جدید را یاد بگیرید، پس از آن شما میتوانید درباره ی کتابخانه ها/ ابزار ها/ محیط در بازار کار آن زبان یاد بگیرید.
 
 
-#### راجع به فلان تکنولوژی خیلی معروف شده چطور؟
+#### راجع به فلان تکنولوژی که خیلی معروف شده چطور؟
 
 هیچ تکنولوژی واحدی آنقدر مهم نیست که یادگیری استفاده از آن بخش اصلی تحصیل شما به آن اختصاص داده شود. با این حال این خیلی خوب است که شما برای یادگیری ان تکنولوژی مشتاق هستید. راهکار این است که به مسئله برعکس نگاه کنیم، از سمت آن تکنولوژی به زیر ساخت ها و مفهوم اصلی آن نگاه کنیم و قبل از اینکه ببینیم چطور تکنولوژی مدرن ما در سطح بالا کار میکند آن را عمیق یاد بگیریم.
 
