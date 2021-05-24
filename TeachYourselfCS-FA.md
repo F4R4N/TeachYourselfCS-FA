@@ -53,7 +53,10 @@
 مهندسان دسته اول علوم کامپیوتر را عمیق یاد گرفته اند، چه از طرق یادگیری به شکل متعارف و چه از طریق یادگیری پیوسته در طی حرفه ی خود. مهندسان دسته دوم معمولا در سطح باقی میمانند و در یادگیری عمیق نمیشوند، به جای یادگیری پایه های اساسی یک مبحث به یادگیری ابزار و تکنولوژی های آن میپردازند، و فقط زمانی یک مهارت جدید یاد میگیرند که باد تکنوژی ها نو از آن سمت شروع به وزیدن کند.
 در حال حاضر، تعداد افرادی که وارد این صنعت میشوند در حال رشد چشمگیری است، در حالی که تعداد فارغ التحصیلان رشته علوم کامپیوتر تقریبا ثابت است. این تعداد زیاد مهندسان نوع 2 فرصت های شغلی آنها را کاهش داده و آنها را از داشتن شغل رضایت بخش در صنعت کامپیوتر باز میدارد. چه شما بخواهید از مهندسان نرم افزار نوع یک باشید یا به دنبال امنیت شغلی هستید، یادگیری علوم کامپیوتر تنها راه قابل اعتماد است.
 
-[![](./Teach%20Yourself%20Computer%20Science_files/bilotta-tweet.png)](https://twitter.com/jenna/status/838161631662092289)
+<a href="https://twitter.com/jenna/status/838161631662092289" target="_blank">
+
+![](./images/bilotta-tweet.png)
+</a>
 
 ## راهنما برای هر موضوع
 
@@ -65,8 +68,8 @@
 
 ما پیشنهاد میکنیم سه فصل اول کتاب "SICP" را بخوانید و تمارین ان را انجام دهید. برای تمرینات اضافه تر، مشکلات و مسائل کوچک برنامه نویسی مانند نمونه های در سایت [exercism](http://exercism.io/) را حل کنید.
 
-اولین بار که این راهنما در سال 2016 منتشر شد، یکی از سوالات متداولی که از ما پرسیده شد این بود که آیا ما دوره های 61A که دوباره توسط جان دنیرو تدریس شده است را پیشنهاد میکنیم یا 
-Since this guide was first published in 2016, one of the most commonly asked questions has been whether we’d now recommend recordings of a more recent iteration of 61A taught by John DeNero, and/or the corresponding book *[Composing Programs](https://composingprograms.com/)*, which is “in the tradition of SICP” but uses Python. We think the DeNero resources are also great, and some students may end up preferring them, but we still suggest SICP, Scheme, and Brian Harvey’s lectures as the first set of resources to try.
+اولین بار که این راهنما در سال 2016 منتشر شد، یکی از سوالاتی که به طور متداول از ما پرسیده شد این بود که آیا ما دوره های 61A که دوباره توسط جان دنیرو تدریس شده است یا کتاب مربوطه یعنی *[Composing Programs](https://composingprograms.com/)*، که یکی از کتاب های یادگیری SICP به طور سنتی است اما از زبان پایتون استفاده میکند را پیشنهاد میکنیم یا نه. به نظر ما منابع دنیرو هم خوب هستند و ممکن است خیلی از دانش آموزان آن را ترجیح دهند، اما ما همچنان سخنرانی های SICP، Scheme، و برایان هاروی را به عنوان اولین منابعی که باید امتحان کنید پیشنهاد میکنیم.
+
 
 Why? Because SICP is unique in its ability—at least potentially—to alter your fundamental beliefs about computers and programming. Not everybody will experience this. Some will hate the book, others won't get past the first few pages. But the potential reward makes it worth trying.
 
@@ -74,7 +77,10 @@ If you don't enjoy SICP, try *Composing Programs*. If that still doesn't suit, t
 
 Finally, a point of clarification: this guide is NOT designed for those who are entirely new to programming. We assume that you are a competent programmer without a background in computer science, looking to fill in some knowledge gaps. The fact that we've included a section on "programming" is simply a reminder that there may be more to learn. For those who've never coded before, but who'd like to, you might prefer a guide like [this one](https://www.reddit.com/r/learnprogramming/wiki/faq#wiki_getting_started).
 
-[![Structure and Interpretation of Computer Programs](./Teach%20Yourself%20Computer%20Science_files/sicp.jpg)](https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html)
+<a href="https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html" target="_blank">
+
+![](./images/sicp.jpg)
+</a>
 
 <span id="architecture"></span>
 ### معماری کامپیوتر
@@ -95,12 +101,18 @@ In seeking simplicity and cohesiveness, Nand2Tetris trades off depth. In particu
 
 Once you feel comfortable with the content of Nand2Tetris, we suggest either returning to CS:APP, or considering Patterson and Hennessy’s *[Computer Organization and Design](https://smile.amazon.com/Computer-Organization-Design-Fifth-Architecture/dp/0124077269)*, an excellent and now classic text. Not every section in the book is essential; we suggest following Berkeley’s [CS61C course](http://inst.eecs.berkeley.edu/~cs61c/sp15/) “Great Ideas in Computer Architecture” for specific readings. The lecture notes and labs are available online, and past lectures are [on the Internet Archive](https://archive.org/details/ucberkeley-webcast-PL-XXv-cvA_iCl2-D-FS5mk0jFF6cYSJs_).
 
-[![Computer Systems: A Programmer's Perspective](./Teach%20Yourself%20Computer%20Science_files/csapp.jpg)](http://csapp.cs.cmu.edu/3e/home.html)
+<a href="http://csapp.cs.cmu.edu/3e/home.html" target="_blank">
+
+![](./images/csapp.jpg)
+</a>
+<div dir="ltr">
 
 > Hardware is the platform
 
 – Mike Acton, Engine Director at Insomniac Games
 ([watch his CppCon talk](https://www.youtube.com/watch?v=rX0ItVEVjHc))
+
+</div>
 
 <span id="algorithms"></span>
 ### الگوریتم و ساختار داده
@@ -115,11 +127,22 @@ For practice, our preferred approach is for students to solve problems on [Leetc
 
 Finally, we strongly recommend *[How to Solve It](https://smile.amazon.com/How-Solve-Mathematical-Princeton-Science/dp/069116407X/)* as an excellent and unique guide to general problem solving; it’s as applicable to computer science as it is to mathematics.
 
-[![The Algorithm Design Manual](./Teach%20Yourself%20Computer%20Science_files/skiena.jpg)](https://smile.amazon.com/Algorithm-Design-Manual-Steven-Skiena/dp/1848000693/) [![How to Solve It](./Teach%20Yourself%20Computer%20Science_files/polya.jpg)](https://smile.amazon.com/How-Solve-Mathematical-Princeton-Science/dp/069116407X/)
+<a href="https://smile.amazon.com/Algorithm-Design-Manual-Steven-Skiena/dp/1848000693/" target="_blank">
+
+![](./images/skiena.jpg)
+</a>
+<a href="https://smile.amazon.com/How-Solve-Mathematical-Princeton-Science/dp/069116407X/" target="_blank">
+
+![](./images/polya.jpg)
+</a>
+
+<div dir="ltr">
 
 > I have only one method that I recommend extensively—it’s called think before you write.
 
 — Richard Hamming
+
+</div>
 
 <span id="math"></span>
 ### ریاضی برای علوم کامپیوتر
@@ -134,10 +157,13 @@ For a more advanced treatment, we suggest *[Mathematics for Computer Science](ht
 
 For linear algebra, we suggest starting with the [Essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) video series, followed by Gilbert Strang’s [book](https://www.amazon.com/Introduction-Linear-Algebra-Gilbert-Strang/dp/0980232775/) and [video lectures](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/).
 
+<div dir="ltr">
+
 > If people do not believe that mathematics is simple, it is only because they do not realize how complicated life is.
 
 — John von Neumann
 
+</div>
 <span id="operating-systems"></span>
 ### سیستم های عامل
 
@@ -149,7 +175,11 @@ After OSTEP, we encourage you to explore the design decisions of specific operat
 
 A great way to consolidate your understanding of operating systems is to read the code of a small kernel and add features. One choice is [xv6](https://pdos.csail.mit.edu/6.828/2016/xv6.html), a port of Unix V6 to ANSI C and x86, maintained for a course at MIT. OSTEP has an appendix of potential [xv6 labs](http://pages.cs.wisc.edu/~remzi/OSTEP/lab-projects-xv6.pdf) full of great ideas for potential projects.
 
-[![Operating Systems: Three Easy Pieces](./Teach%20Yourself%20Computer%20Science_files/ostep.jpeg)](http://pages.cs.wisc.edu/~remzi/OSTEP/)
+
+<a href="http://pages.cs.wisc.edu/~remzi/OSTEP/" target="_blank">
+
+![Operating Systems: Three Easy Pieces](./images/ostep.jpeg)
+</a>
 
 <span id="networking"></span>
 ### شبکه های کامپیوتری
@@ -160,11 +190,18 @@ Our favorite book on the topic is *[Computer Networking: A Top-Down Approach](ht
 
 For those who prefer video lectures, we suggest Stanford’s [*Introduction to Computer Networking course*](https://www.youtube.com/playlist?list=PLvFG2xYBrYAQCyz4Wx3NPoYJOFjvU7g2Z) previously available via Stanford's MOOC platform Lagunita, but sadly now only available as unofficial playlists on Youtube.
 
+<div dir="ltr">
+
 > You can’t gaze in the crystal ball and see the future. What the Internet is going to be in the future is what society makes it.
 
 — Bob Kahn
 
-[![Computer Networking: A Top-Down Approach](./Teach%20Yourself%20Computer%20Science_files/top-down.jpg)](https://smile.amazon.com/Computer-Networking-Top-Down-Approach-7th/dp/0133594149/)
+</div>
+
+<a href="https://smile.amazon.com/Computer-Networking-Top-Down-Approach-7th/dp/0133594149/" target="_blank">
+
+![Computer Networking: A Top-Down Approach](./images/top-down.jpg)
+</a>
 
 <span id="databases"></span>
 ### پایگاه داده
@@ -181,7 +218,16 @@ If you're adamant about using an introductory textbook, we suggest *[Database Ma
 
 Finally, data modeling is a neglected and poorly taught aspect of working with databases. Our suggested book on the topic is *[Data and Reality: A Timeless Perspective on Perceiving and Managing Information in Our Imprecise World](https://www.amazon.com/Data-Reality-Perspective-Perceiving-Information/dp/1935504215)*.
 
-[![Readings in Database Systems](./Teach%20Yourself%20Computer%20Science_files/redbook.jpg)](http://www.redbook.io/) [![Data and Reality](./Teach%20Yourself%20Computer%20Science_files/data-reality.jpg)](https://www.amazon.com/Data-Reality-Perspective-Perceiving-Information/dp/1935504215)
+[![](./Teach%20Yourself%20Computer%20Science_files/data-reality.jpg)]()
+
+<a href="http://www.redbook.io/" target="_blank">
+
+![Readings in Database Systems](./images/redbook.jpg)
+</a>
+<a href="https://www.amazon.com/Data-Reality-Perspective-Perceiving-Information/dp/1935504215" target="_blank">
+
+![Data and Reality](./images/data-reality.jpg)
+</a>
 
 <span id="languages"></span>
 ### زبان ها و کامپایلر ها
@@ -194,12 +240,16 @@ A more traditional recommendation is *[Compilers: Principles, Techniques & Tools
 
 If you elect to use the Dragon Book, it’s almost essential that you cherry-pick the topics, ideally with the help of a mentor. In fact, our suggested way to utilize the Dragon Book, if you so choose, is as a supplementary reference for a video lecture series. Our recommended one is [Alex Aiken’s, on edX](https://www.edx.org/course/compilers).
 
-[![Compilers: Principles, Techniques & Tools](./Teach%20Yourself%20Computer%20Science_files/dragon.jpg)](https://smile.amazon.com/Compilers-Principles-Techniques-Tools-2nd/dp/0321486811)
+<a href="https://smile.amazon.com/Compilers-Principles-Techniques-Tools-2nd/dp/0321486811" target="_blank">
+
+![Compilers: Principles, Techniques & Tools](./images/dragon.jpg)
+</a>
+<div dir="ltr">
 
 > Don’t be a boilerplate programmer. Instead, build tools for users and other programmers. Take historical note of textile and steel industries: do you want to build machines and tools, or do you want to operate those machines?
 
 — Ras Bodik at the start of his compilers course
-
+</div>
 <span id="distributed-systems"></span>
 ### سیستم های توزیع شده
 
@@ -213,7 +263,11 @@ For those who prefer video, an excellent course with videos available online is 
 
 No matter the choice of textbook or other secondary resources, study of distributed systems absolutely mandates reading papers. A good list is [here](http://dsrg.pdos.csail.mit.edu/papers/), and we would highly encourage attending your local [Papers We Love](http://paperswelove.org/) chapter.
 
-[![Designing Data-Intensive Applications](./Teach%20Yourself%20Computer%20Science_files/ddia.jpg)](https://smile.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable-ebook/dp/B06XPJML5D/)
+
+<a href="https://smile.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable-ebook/dp/B06XPJML5D/" target="_blank">
+
+![Designing Data-Intensive Applications](./images/ddia.jpg)
+</a>
 
 ## سوالات متداول
 
