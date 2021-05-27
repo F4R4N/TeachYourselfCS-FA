@@ -1,6 +1,6 @@
 <div dir="rtl">
 
-# خودتون علوم کامپیوتر را یاد بگیرید.
+# علوم کامپیوتر رو خود آموز یاد بگیر
 
 </div>
 
@@ -87,19 +87,20 @@
 <span id="architecture"></span>
 ### معماری کامپیوتر
 
-Computer Architecture—sometimes called “computer systems” or “computer organization”—is an important first look at computing below the surface of software. In our experience, it’s the most neglected area among self-taught software engineers.
+معماری کامپیوتر -گاهی اوقات به آن "سیستم های کامپیوتری" یا "سازمان دهی کامپیوتری"- قسمت مهمی است که کار محاسبات کامپیوتری را انجام میدهد و وقتی زیر لایه نرم افزاری را نگاه میکنیم با آن مواجه میشویم. طبق تجربه ما، مهندسان نرم افزار خود آموز درباره این لایه بسیار اطلاعات کمی دارند.
 
-Our favorite introductory book is *[Computer Systems: A Programmer's Perspective](http://csapp.cs.cmu.edu/3e/home.html)*, and a typical introductory computer architecture course using the book [would cover](http://csapp.cs.cmu.edu/3e/courses.html) most of chapters 1-6.
+کتاب مورد علاقه ما برای مقدمه ای به این موضوع کتاب *[Computer Systems: A Programmer's Perspective](http://csapp.cs.cmu.edu/3e/home.html)*، و یک دوره معمول برای یادگیری معماری کامپیوتر بر اساس این کتاب [این دوره](https://csapp.cs.cmu.edu/3e/courses.html) است که بیشتر فصل های 1 تا 6 مد نظر است.
 
-We love CS:APP for the practical, programmer-oriented approach. While there's much more to computer architecture than what's covered in the book, it serves as a great starting point for those who'd like to understand computer systems primarily in order to write faster, more efficient and more reliable *software*.
+ما CS:APP را برای رویکرد عملی و بر پایه برنامه نویسی اش دوست داریم. اگرچه معماری کامپیوتر بزرگتر از مباحث بحث شده در کتاب است، با این وجود نقطه شروع بسیار خوبی برای کسانی است که میخواهند سیستم های کامپیوتری را درک کنند تا بتوانند *نرم افزار* های قابل اطمینان تر و کارآمد تری بنویسند، و آن را سریع تر بنویسند.
 
-For those who'd prefer both a gentler introduction to the topic and a balance of hardware and software concerns, we suggest *The Elements of Computing Systems*, also known as “Nand2Tetris”. This is an ambitious book attempting to give you a cohesive understanding of how everything in a computer works. Each chapter involves building a small piece of the overall system, from writing elementary logic gates in HDL, through a CPU and assembler, all the way to an application the size of a Tetris game.
+برای کسانی که مقدمه ای ملایم تر، و تعادل بین مباحث نرم افزاری و سخت افزاری را بیشتر میپسندند، ما کتاب *The Elements of Computing Systems* را پیشنهاد میکنیم، این کتاب به "Nand2Tetris" نیز معروف است. این کتاب جاه طلبانه قصد دارد به شما درک منسجمی از اینکه چطور همه چیز در کامپیوتر ها کار میکند بدهد. هر فصل شامل ساختن قسمت کوچکی از یک سیستم است، از نوشتن گیت های منطقی ابتدایی، به وسیله سی پی یو و اسمبلر، تا نوشتن یک برنامه به اندازه بازی تتریس(Tetris).
 
-We recommend reading through the first six chapters of the book and completing the associated projects. This will develop your understanding of the relationship between the architecture of the machine and the software that runs on it.
+ما پیشنهاد میکنیم که شش فصل اول کتاب را بخوانید و پروژه های مربوطه را انجام دهید. این درک شما را از رابطه بین معماری ماشین و نرم افزاری که روی آن اجرا میشود بیشتر میکند.
 
-The first half of the book (and all of its projects), are available for free from [the Nand2Tetris website](http://www.nand2tetris.org/). It’s also available as [a Coursera course with accompanying videos](https://www.coursera.org/learn/build-a-computer).
+نیمه ی ابتدایی کتاب (و همه ی پروژه ها)، به صورت رایگان در [the Nand2Tetris website](http://www.nand2tetris.org/) در دسترس است. همچنین در قالب [دوره آموزشی ویدیو ای در Coursera](https://www.coursera.org/learn/build-a-computer) نیز موجود است.
 
-In seeking simplicity and cohesiveness, Nand2Tetris trades off depth. In particular, two very important concepts in modern computer architectures are pipelining and memory hierarchy, but both are mostly absent from the text.
+به دنبال سادگی و انسجام، Nand2Tetris عمق را کمتر در نظر میگیرد. به طور خاص، دو مفهوم مهم در معماری کامپیوتر های مدرن pipelining و memory hierarchy هستند، اما در متن کتاب به آنها پرداخته نشده است.
+
 
 Once you feel comfortable with the content of Nand2Tetris, we suggest either returning to CS:APP, or considering Patterson and Hennessy’s *[Computer Organization and Design](https://smile.amazon.com/Computer-Organization-Design-Fifth-Architecture/dp/0124077269)*, an excellent and now classic text. Not every section in the book is essential; we suggest following Berkeley’s [CS61C course](http://inst.eecs.berkeley.edu/~cs61c/sp15/) “Great Ideas in Computer Architecture” for specific readings. The lecture notes and labs are available online, and past lectures are [on the Internet Archive](https://archive.org/details/ucberkeley-webcast-PL-XXv-cvA_iCl2-D-FS5mk0jFF6cYSJs_).
 
@@ -107,9 +108,10 @@ Once you feel comfortable with the content of Nand2Tetris, we suggest either ret
 
 ![Computer Systems A Programmers Prespective book cover](./images/csapp.jpg)
 </a>
-<div dir="ltr">
 
-> Hardware is the platform
+> سخت افزار بستر است
+
+<div dir="ltr">
 
 – Mike Acton, Engine Director at Insomniac Games
 ([watch his CppCon talk](https://www.youtube.com/watch?v=rX0ItVEVjHc))
@@ -138,10 +140,9 @@ Finally, we strongly recommend *[How to Solve It](https://smile.amazon.com/How-S
 ![How To Solve It book cover](./images/polya.jpg)
 </a>
 
-<div dir="ltr">
-
 > I have only one method that I recommend extensively—it’s called think before you write.
 
+<div dir="ltr">
 — Richard Hamming
 
 </div>
