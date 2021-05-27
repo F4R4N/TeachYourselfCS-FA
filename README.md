@@ -14,6 +14,6 @@ A persian translation of [TeachYourselfCS](https://teachyourselfcs.com/).
 
 ## پیمایش
 - [راهنما یه انگلیسی](https://teachyourselfcs.com/)
-- [ترجمه راهنما به فارسی](https://github.com/F4R4N/TeachYourselfCS-FA)
+- [ترجمه راهنما به فارسی](https://github.com/F4R4N/TeachYourselfCS-FA/TeachYourselfCS-FA.md)
   
 </div>
