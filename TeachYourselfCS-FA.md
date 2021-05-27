@@ -51,17 +51,19 @@
 هر دو دسته خود را مهندس نرم افزار میدانند و هردو تمایل دارند در ابتدای کارشان حقوق یک اندازه دریافت کنند. ولی مهندسان دسته اول در طی زمان در پروژه های با در امد بالاتر و رضایت بخش تری استخدام میشوند، خواه این کار ارزش تجاری داشته باشد یا همکاری در یک پروژه اوپن سورس باشد، رهبری فنی یا مشارکت فردی سطح بالا در پروژه باشد.
 
 مهندسان دسته اول علوم کامپیوتر را عمیق یاد گرفته اند، چه از طرق یادگیری به شکل متعارف و چه از طریق یادگیری پیوسته در طی حرفه ی خود. مهندسان دسته دوم معمولا در سطح باقی میمانند و در یادگیری عمیق نمیشوند، به جای یادگیری پایه های اساسی یک مبحث به یادگیری ابزار و تکنولوژی های آن میپردازند، و فقط زمانی یک مهارت جدید یاد میگیرند که باد تکنوژی ها نو از آن سمت شروع به وزیدن کند.
+
 در حال حاضر، تعداد افرادی که وارد این صنعت میشوند در حال رشد چشمگیری است، در حالی که تعداد فارغ التحصیلان رشته علوم کامپیوتر تقریبا ثابت است. این تعداد زیاد مهندسان نوع 2 فرصت های شغلی آنها را کاهش داده و آنها را از داشتن شغل رضایت بخش در صنعت کامپیوتر باز میدارد. چه شما بخواهید از مهندسان نرم افزار نوع یک باشید یا به دنبال امنیت شغلی هستید، یادگیری علوم کامپیوتر تنها راه قابل اعتماد است.
 
 <a href="https://twitter.com/jenna/status/838161631662092289" target="_blank">
 
-![](./images/bilotta-tweet.png)
+![a tweet by bilotta](./images/bilotta-tweet.png)
 </a>
 
 ## راهنما برای هر موضوع
 
 <span id="programming"></span>
 ### برنامه نویسی
+
 اکثر برنامه های علوم کامپیوتر در مقطع کارشناسی با یک "مقدمه" بر برنامه نویسی کامپیوتر آغاز میشوند. نسخه های خوب این دوره ها نه تنها نیاز های تازه کاران در این زمینه را فراهم میکند، بلکه برای آنهایی که در ابتدای یادگیری شان مفاهیم و مدل های برنامه نویسی را یاد نگرفته اند هم مفید است.
 
 پیشنهاد استاندارد ما برای یادگیری برنامه نویسی کامپیوتر کلاسیک است، کتاب *Structure and Interpretation of Computer Programs*، که به صورت رایگان و آنلاین، هم به عنوان [کتاب](https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html)، و هم در قالب مجموعه [ویدیو های سخنرانی MIT](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video-lectures/) در دسترس است. با اینکه ویدیو های دانشگاه MIT  خیلی خوب هستند، پیشنهاد ما برای دوره های ویدیو ای در واقع [سخنرانی های SICP  برایان هاروی ](https://archive.org/details/ucberkeley-webcast-PL3E89002AA9B9879E?sort=titleSorter) است. این ویدیو ها بیشتر از سخنرانی های MIT دانش آموزان جدید را هدف گرفته است.
@@ -79,7 +81,7 @@
 
 <a href="https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html" target="_blank">
 
-![SICP book image](./images/sicp.jpg)
+![SICP book cover](./images/sicp.jpg)
 </a>
 
 <span id="architecture"></span>
@@ -103,7 +105,7 @@ Once you feel comfortable with the content of Nand2Tetris, we suggest either ret
 
 <a href="http://csapp.cs.cmu.edu/3e/home.html" target="_blank">
 
-![](./images/csapp.jpg)
+![Computer Systems A Programmers Prespective book cover](./images/csapp.jpg)
 </a>
 <div dir="ltr">
 
@@ -129,11 +131,11 @@ Finally, we strongly recommend *[How to Solve It](https://smile.amazon.com/How-S
 
 <a href="https://smile.amazon.com/Algorithm-Design-Manual-Steven-Skiena/dp/1848000693/" target="_blank">
 
-![](./images/skiena.jpg)
+![The Algorithm Design Manual book cover](./images/skiena.jpg)
 </a>
 <a href="https://smile.amazon.com/How-Solve-Mathematical-Princeton-Science/dp/069116407X/" target="_blank">
 
-![](./images/polya.jpg)
+![How To Solve It book cover](./images/polya.jpg)
 </a>
 
 <div dir="ltr">
@@ -166,7 +168,7 @@ For linear algebra, we suggest starting with the [Essence of linear algebra](htt
 </div>
 <span id="operating-systems"></span>
 
-### سیستم های عامل
+### سیستم عامل ها
 
 *[Operating System Concepts](https://www.amazon.com/dp/1118063333/)* (the “Dinosaur book”) and *[Modern Operating Systems](https://www.amazon.com/dp/013359162X/)* are the “classic” books on operating systems. Both have attracted criticism for their lack of clarity and general student unfriendliness.
 
@@ -179,7 +181,7 @@ A great way to consolidate your understanding of operating systems is to read th
 
 <a href="http://pages.cs.wisc.edu/~remzi/OSTEP/" target="_blank">
 
-![Operating Systems: Three Easy Pieces](./images/ostep.jpeg)
+![Operating Systems: Three Easy Pieces book cover](./images/ostep.jpeg)
 </a>
 
 <span id="networking"></span>
@@ -201,7 +203,7 @@ For those who prefer video lectures, we suggest Stanford’s [*Introduction to C
 
 <a href="https://smile.amazon.com/Computer-Networking-Top-Down-Approach-7th/dp/0133594149/" target="_blank">
 
-![Computer Networking: A Top-Down Approach](./images/top-down.jpg)
+![Computer Networking: A Top-Down Approach book cover](./images/top-down.jpg)
 </a>
 
 <span id="databases"></span>
@@ -223,11 +225,11 @@ Finally, data modeling is a neglected and poorly taught aspect of working with d
 
 <a href="http://www.redbook.io/" target="_blank">
 
-![Readings in Database Systems](./images/redbook.jpg)
+![Readings in Database Systems books cover](./images/redbook.jpg)
 </a>
 <a href="https://www.amazon.com/Data-Reality-Perspective-Perceiving-Information/dp/1935504215" target="_blank">
 
-![Data and Reality](./images/data-reality.jpg)
+![Data and Reality book cover](./images/data-reality.jpg)
 </a>
 
 <span id="languages"></span>
@@ -243,7 +245,7 @@ If you elect to use the Dragon Book, it’s almost essential that you cherry-pic
 
 <a href="https://smile.amazon.com/Compilers-Principles-Techniques-Tools-2nd/dp/0321486811" target="_blank">
 
-![Compilers: Principles, Techniques & Tools](./images/dragon.jpg)
+![Compilers: Principles, Techniques & Tools book cover](./images/dragon.jpg)
 </a>
 <div dir="ltr">
 
@@ -255,10 +257,11 @@ If you elect to use the Dragon Book, it’s almost essential that you cherry-pic
 
 ### سیستم های توزیع شده
 
-در حالی تعداد کامپیوتر ها در حال افزایش است، آنها در حال *گسترده* شدن نیز هستند.
+در حالی تعداد کامپیوتر ها در حال افزایش است، آنها در حال *گسترده* شدن نیز هستند. در حالیکه در گذشته کسب و کار ها سیستم های بزرگ و بزرگتری خریداری میکردند، امروزه معمول است که حتی برنامه های کوچک نیز روی چندین ماشین جداگانه اجرا شوند. سیستم های توزیع شده 
 As computers have increased in number, they have also *spread*. Whereas businesses would previously purchase larger and larger mainframes, it’s typical now for even very small applications to run across multiple machines. Distributed systems is the study of how to reason about the trade-offs involved in doing so.
 
-Our suggested book for self-study is Martin Kleppmann's *[Designing Data-Intensive Applications](https://smile.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable-ebook/dp/B06XPJML5D/)*. Far better than a traditional textbook, DDIA is a highly readable book designed for practitioners, which somehow avoids sacrificing depth or rigor.
+کتاب پیشنهادی ما برای یادگیری خود آموز کتاب *[Designing Data-Intensive Applications](https://smile.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable-ebook/dp/B06XPJML5D/)* از <span title="Martin Kleppmann">مارتین کلیپ من</span> است. DDIA کتابی بسیار خواندنی است و برای کسانی که در حال یادگیری و تمرین هستند طراحیی شده است، که در آن حفظ عمق و دقت رعایت شده است، و خیلی بهتر از کتاب های آموزشی سنتی و مرسوم در این زمینه است.
+
 
 For those seeking a more traditional text, or who would prefer one that’s available for free online, we suggest Maarten van Steen and Andrew Tanenbaum’s *[Distributed Systems, 3rd Edition](https://www.distributed-systems.net/index.php/books/ds3/)*.
 
@@ -269,7 +272,7 @@ No matter the choice of textbook or other secondary resources, study of distribu
 
 <a href="https://smile.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable-ebook/dp/B06XPJML5D/" target="_blank">
 
-![Designing Data-Intensive Applications](./images/ddia.jpg)
+![Designing Data-Intensive Applications book cover](./images/ddia.jpg)
 </a>
 
 ## سوالات متداول
@@ -323,7 +326,7 @@ No matter the choice of textbook or other secondary resources, study of distribu
 این راهنما درابتدا توسط [Oz Nova](https://twitter.com/oznova_) و [Myles Byrne](https://twitter.com/quackingduck) نوشته شده بود که سال ۱۳۹۹ توسط Oz بروزنویسی شد. این مطالب براساس تجربه ایشان در زمینه تدریس مبانی علوم کامپیوتر به بیش از ۱۰۰۰ خودآموز و دانشجوی مهندسی داخل سان فرانسیسکو بصورت آنلاین بود. از همه دانشجوهایی که برای کامل کردن منابع خودآموزی کمک کردن سپاسگزاری میکنیم.
 
 <span id="translator"></span>
-### مترجم این راهنما چه کسی است؟
+### مترجم این راهنما کیست؟
 سلام من <a href="https://github.com/F4R4N" target="_blank">فاران تقوی</a> هستم برنامه نویس خودآموز!
 اگر اشکالی در این ترجمه پیدا کردید حتما در <a href="https://github.com/F4R4N/TeachYourselfCS-FA" target="_blank">گیت هاب</a> پول ریکوئست بزنید.تا اشکالات این راهنما را برطرف کنیم.
 از آنجایی که این مقاله میتواند به بسیاری از علاقه مندان کمک کند،تلاش میکنم تا جای ممکن اشکالات آن را برطرف کنم و هرگونه کمکی باعث خوشحالی من است.
