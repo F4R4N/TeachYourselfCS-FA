@@ -70,16 +70,16 @@
 
 اولین بار که این راهنما در سال 2016 منتشر شد، یکی از سوالاتی که به طور متداول از ما پرسیده شد این بود که آیا ما دوره های 61A که دوباره توسط جان دنیرو تدریس شده است یا کتاب مربوطه یعنی *[Composing Programs](https://composingprograms.com/)*، که یکی از کتاب های یادگیری SICP به طور سنتی است اما از زبان پایتون استفاده میکند را پیشنهاد میکنیم یا نه. به نظر ما منابع دنیرو هم خوب هستند و ممکن است خیلی از دانش آموزان آن را ترجیح دهند، اما ما همچنان سخنرانی های SICP، Scheme، و برایان هاروی را به عنوان اولین منابعی که باید امتحان کنید پیشنهاد میکنیم.
 
+چرا؟ چون SICP توانایی منحصر به فردی در تغییر عقاید شما -لا اقل پتانسیل آن را دارد- در باره کامپیوتر ها و برنامه نویسی تغییر دهد. همه این را تجربه نمیکنند. بعضی ها از کتاب متنفر میشوند، بعضی ها حتی از خواندن صفحات اولیه کتاب هم نمیگذرند. اما این کتاب دارای پتانسیل بالایی است و ارزش امتحان کردن را دارد.
 
-Why? Because SICP is unique in its ability—at least potentially—to alter your fundamental beliefs about computers and programming. Not everybody will experience this. Some will hate the book, others won't get past the first few pages. But the potential reward makes it worth trying.
+اگر از SICP لذت نبردید، کتاب *Composing Programs* را امتحان کنید. اگر آن هم برای شما مناسب نبود، کتاب *[How to Design Programs](http://www.htdp.org/)* را امتحان کنید. اگر هیچ کدام آنها برای شما جواب نداد، احتمالا به این معنی است که شما باید برای مدتی روی موضوعات دیگری تمرکز کنید، و یکی دو سال دیگر دوباره به برنامه نویسی باز گردید.
 
-If you don't enjoy SICP, try *Composing Programs*. If that still doesn't suit, try *[How to Design Programs](http://www.htdp.org/)*. If none of these seem to be rewarding your effort, perhaps that's a sign that you should focus on other topics for some time, and revisit the discipline of programming in another year or two.
+در نهایت، برای روشن شدن موضوع: این راهنما برای کسانی که کاملا در برنامه نویسی تازه کارند ساخته نشده است. فرض ما این است که شما برنامه نویسی شایسته ولی بدون پیش زمینه ای در علوم کامپیوتر هستید، و به دنبال پر کردن برخی خلا ها در دانش خود هستید. در واقع دلیل اینکه ما بخشی با موضوع برنامه نویسی را در این راهنما قرار دادیم این بود که به شما یاد اوری کنیم که ممکن است چیز های بیشتری برای یادگیری در این زمینه باشد. برای کسانی که تا به حال کد نزده اند، اما دوست دارند که یاد بگیرند، شما ممکن است راهنما هایی مثل [این یکی](https://www.reddit.com/r/learnprogramming/wiki/faq#wiki_getting_started) را ترجیح دهید.
 
-Finally, a point of clarification: this guide is NOT designed for those who are entirely new to programming. We assume that you are a competent programmer without a background in computer science, looking to fill in some knowledge gaps. The fact that we've included a section on "programming" is simply a reminder that there may be more to learn. For those who've never coded before, but who'd like to, you might prefer a guide like [this one](https://www.reddit.com/r/learnprogramming/wiki/faq#wiki_getting_started).
 
 <a href="https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html" target="_blank">
 
-![](./images/sicp.jpg)
+![SICP book image](./images/sicp.jpg)
 </a>
 
 <span id="architecture"></span>
@@ -165,6 +165,7 @@ For linear algebra, we suggest starting with the [Essence of linear algebra](htt
 
 </div>
 <span id="operating-systems"></span>
+
 ### سیستم های عامل
 
 *[Operating System Concepts](https://www.amazon.com/dp/1118063333/)* (the “Dinosaur book”) and *[Modern Operating Systems](https://www.amazon.com/dp/013359162X/)* are the “classic” books on operating systems. Both have attracted criticism for their lack of clarity and general student unfriendliness.
@@ -251,8 +252,10 @@ If you elect to use the Dragon Book, it’s almost essential that you cherry-pic
 — Ras Bodik at the start of his compilers course
 </div>
 <span id="distributed-systems"></span>
+
 ### سیستم های توزیع شده
 
+در حالی تعداد کامپیوتر ها در حال افزایش است، آنها در حال *گسترده* شدن نیز هستند.
 As computers have increased in number, they have also *spread*. Whereas businesses would previously purchase larger and larger mainframes, it’s typical now for even very small applications to run across multiple machines. Distributed systems is the study of how to reason about the trade-offs involved in doing so.
 
 Our suggested book for self-study is Martin Kleppmann's *[Designing Data-Intensive Applications](https://smile.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable-ebook/dp/B06XPJML5D/)*. Far better than a traditional textbook, DDIA is a highly readable book designed for practitioners, which somehow avoids sacrificing depth or rigor.
