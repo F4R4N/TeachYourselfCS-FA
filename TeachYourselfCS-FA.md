@@ -101,8 +101,7 @@
 
 به دنبال سادگی و انسجام، Nand2Tetris عمق را کمتر در نظر میگیرد. به طور خاص، دو مفهوم مهم در معماری کامپیوتر های مدرن pipelining و memory hierarchy هستند، اما در متن کتاب به آنها پرداخته نشده است.
 
-
-Once you feel comfortable with the content of Nand2Tetris, we suggest either returning to CS:APP, or considering Patterson and Hennessy’s *[Computer Organization and Design](https://smile.amazon.com/Computer-Organization-Design-Fifth-Architecture/dp/0124077269)*, an excellent and now classic text. Not every section in the book is essential; we suggest following Berkeley’s [CS61C course](http://inst.eecs.berkeley.edu/~cs61c/sp15/) “Great Ideas in Computer Architecture” for specific readings. The lecture notes and labs are available online, and past lectures are [on the Internet Archive](https://archive.org/details/ucberkeley-webcast-PL-XXv-cvA_iCl2-D-FS5mk0jFF6cYSJs_).
+وقتی با محتوای کتاب Nand2Tetris احساس راحتی کردید، ما پیشنهاد میکنیم یا به کتاب CS:APP باز گردید، یا کتاب *[Computer Organization and Design](https://smile.amazon.com/Computer-Organization-Design-Fifth-Architecture/dp/0124077269)* از Patterson Hennessy را شروع کنید، یک کتاب بسیار عالی و کلاسیک. خواندن تمام بخش های کتاب ضرورتی ندارد، ما پیشنهاد میکنیم [دوره CS61C](https://inst.eecs.berkeley.edu/~cs61c/sp15/) دانشگاه برکلی را دنبال کنید مخصوصا دوره “Great Ideas in Computer Architecture”. سخنرانی ها و کار عملی به صورت آنلاین در دسترس است، و سخنرانی های قدیمی [در آرشیو اینترنت](https://archive.org/details/ucberkeley-webcast-PL-XXv-cvA_iCl2-D-FS5mk0jFF6cYSJs_) در دسترسند.
 
 <a href="http://csapp.cs.cmu.edu/3e/home.html" target="_blank">
 
