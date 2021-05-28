@@ -70,7 +70,7 @@
 
 ما پیشنهاد میکنیم سه فصل اول کتاب "SICP" را بخوانید و تمارین ان را انجام دهید. برای تمرینات اضافه تر، مشکلات و مسائل کوچک برنامه نویسی مانند نمونه های در سایت [exercism](http://exercism.io/) را حل کنید.
 
-اولین بار که این راهنما در سال 2016 منتشر شد، یکی از سوالاتی که به طور متداول از ما پرسیده شد این بود که آیا ما دوره های 61A که دوباره توسط جان دنیرو تدریس شده است یا کتاب مربوطه یعنی *[Composing Programs](https://composingprograms.com/)*، که یکی از کتاب های یادگیری SICP به طور سنتی است اما از زبان پایتون استفاده میکند را پیشنهاد میکنیم یا نه. به نظر ما منابع دنیرو هم خوب هستند و ممکن است خیلی از دانش آموزان آن را ترجیح دهند، اما ما همچنان سخنرانی های SICP، Scheme، و برایان هاروی را به عنوان اولین منابعی که باید امتحان کنید پیشنهاد میکنیم.
+اولین بار که این راهنما در سال 2016 منتشر شد، یکی از سوالاتی که به طور متداول از ما پرسیده شد این بود که آیا ما دوره های 61A که دوباره توسط جان دنیرو تدریس شده است یا کتاب مربوطه یعنی *[Composing Programs](https://composingprograms.com/)* ، که یکی از کتاب های یادگیری SICP به طور سنتی است اما از زبان پایتون استفاده میکند را پیشنهاد میکنیم یا نه. به نظر ما منابع دنیرو هم خوب هستند و ممکن است خیلی از دانش آموزان آن را ترجیح دهند، اما ما همچنان سخنرانی های SICP، Scheme، و برایان هاروی را به عنوان اولین منابعی که باید امتحان کنید پیشنهاد میکنیم.
 
 چرا؟ چون SICP توانایی منحصر به فردی در تغییر عقاید شما -لا اقل پتانسیل آن را دارد- در باره کامپیوتر ها و برنامه نویسی تغییر دهد. همه این را تجربه نمیکنند. بعضی ها از کتاب متنفر میشوند، بعضی ها حتی از خواندن صفحات اولیه کتاب هم نمیگذرند. اما این کتاب دارای پتانسیل بالایی است و ارزش امتحان کردن را دارد.
 
@@ -89,7 +89,7 @@
 
 معماری کامپیوتر -گاهی اوقات به آن "سیستم های کامپیوتری" یا "سازمان دهی کامپیوتری"- قسمت مهمی است که کار محاسبات کامپیوتری را انجام میدهد و وقتی زیر لایه نرم افزاری را نگاه میکنیم با آن مواجه میشویم. طبق تجربه ما، مهندسان نرم افزار خود آموز درباره این لایه بسیار اطلاعات کمی دارند.
 
-کتاب مورد علاقه ما برای مقدمه ای به این موضوع کتاب *[Computer Systems: A Programmer's Perspective](http://csapp.cs.cmu.edu/3e/home.html)*، و یک دوره معمول برای یادگیری معماری کامپیوتر بر اساس این کتاب [این دوره](https://csapp.cs.cmu.edu/3e/courses.html) است که بیشتر فصل های 1 تا 6 مد نظر است.
+کتاب مورد علاقه ما برای مقدمه ای به این موضوع کتاب *[Computer Systems: A Programmer's Perspective](http://csapp.cs.cmu.edu/3e/home.html)* ، و یک دوره معمول برای یادگیری معماری کامپیوتر بر اساس این کتاب [این دوره](https://csapp.cs.cmu.edu/3e/courses.html) است که بیشتر فصل های 1 تا 6 مد نظر است.
 
 ما CS:APP را برای رویکرد عملی و بر پایه برنامه نویسی اش دوست داریم. اگرچه معماری کامپیوتر بزرگتر از مباحث بحث شده در کتاب است، با این وجود نقطه شروع بسیار خوبی برای کسانی است که میخواهند سیستم های کامپیوتری را درک کنند تا بتوانند *نرم افزار* های قابل اطمینان تر و کارآمد تری بنویسند، و آن را سریع تر بنویسند.
 
@@ -101,7 +101,7 @@
 
 به دنبال سادگی و انسجام، Nand2Tetris عمق را کمتر در نظر میگیرد. به طور خاص، دو مفهوم مهم در معماری کامپیوتر های مدرن pipelining و memory hierarchy هستند، اما در متن کتاب به آنها پرداخته نشده است.
 
-وقتی با محتوای کتاب Nand2Tetris احساس راحتی کردید، ما پیشنهاد میکنیم یا به کتاب CS:APP باز گردید، یا کتاب *[Computer Organization and Design](https://smile.amazon.com/Computer-Organization-Design-Fifth-Architecture/dp/0124077269)* از Patterson Hennessy را شروع کنید، یک کتاب بسیار عالی و کلاسیک. خواندن تمام بخش های کتاب ضرورتی ندارد، ما پیشنهاد میکنیم [دوره CS61C](https://inst.eecs.berkeley.edu/~cs61c/sp15/) دانشگاه برکلی را دنبال کنید مخصوصا دوره “Great Ideas in Computer Architecture”. سخنرانی ها و کار عملی به صورت آنلاین در دسترس است، و سخنرانی های قدیمی [در آرشیو اینترنت](https://archive.org/details/ucberkeley-webcast-PL-XXv-cvA_iCl2-D-FS5mk0jFF6cYSJs_) در دسترسند.
+وقتی با محتوای کتاب Nand2Tetris احساس راحتی کردید، ما پیشنهاد میکنیم یا به کتاب CS:APP باز گردید، یا کتاب *[Computer Organization and Design](https://smile.amazon.com/Computer-Organization-Design-Fifth-Architecture/dp/0124077269)* از Patterson Hennessy را شروع کنید، یک کتاب بسیار عالی و کلاسیک. خواندن تمام بخش های کتاب ضرورتی ندارد، ما پیشنهاد میکنیم [دوره CS61C](https://inst.eecs.berkeley.edu/~cs61c/sp15/) دانشگاه برکلی را دنبال کنید مخصوصا دوره “Great Ideas in Computer Architecture”. سخنرانی ها و کار عملی به صورت آنلاین در دسترس است، و سخنرانی های قدیمی نیز [در آرشیو اینترنت](https://archive.org/details/ucberkeley-webcast-PL-XXv-cvA_iCl2-D-FS5mk0jFF6cYSJs_) در دسترسند.
 
 <a href="http://csapp.cs.cmu.edu/3e/home.html" target="_blank">
 
@@ -113,12 +113,13 @@
 <div dir="ltr">
 
 – Mike Acton, Engine Director at Insomniac Games
-([watch his CppCon talk](https://www.youtube.com/watch?v=rX0ItVEVjHc))
+([CPPCon ویدیو ی صحبت های او در ](https://www.youtube.com/watch?v=rX0ItVEVjHc))
 
 </div>
 
 <span id="algorithms"></span>
 ### الگوریتم و ساختار داده
+
 
 We agree with decades of common wisdom that familiarity with common algorithms and data structures is one of the most empowering aspects of a computer science education. This is also a great place to train one’s general problem-solving abilities, which will pay off in every other area of study.
 
@@ -257,17 +258,16 @@ If you elect to use the Dragon Book, it’s almost essential that you cherry-pic
 
 ### سیستم های توزیع شده
 
-در حالی تعداد کامپیوتر ها در حال افزایش است، آنها در حال *گسترده* شدن نیز هستند. در حالیکه در گذشته کسب و کار ها سیستم های بزرگ و بزرگتری خریداری میکردند، امروزه معمول است که حتی برنامه های کوچک نیز روی چندین ماشین جداگانه اجرا شوند. سیستم های توزیع شده 
-As computers have increased in number, they have also *spread*. Whereas businesses would previously purchase larger and larger mainframes, it’s typical now for even very small applications to run across multiple machines. Distributed systems is the study of how to reason about the trade-offs involved in doing so.
+در حالی تعداد کامپیوتر ها در حال افزایش است، آنها در حال *گسترده* شدن نیز هستند. در حالیکه در گذشته کسب و کار ها سیستم های بزرگ و بزرگتری خریداری میکردند، امروزه معمول است که حتی برنامه های کوچک نیز روی چندین ماشین جداگانه اجرا شوند. Distributed systems is the study of how to reason about the trade-offs involved in doing so.
 
 کتاب پیشنهادی ما برای یادگیری خود آموز کتاب *[Designing Data-Intensive Applications](https://smile.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable-ebook/dp/B06XPJML5D/)* از <span title="Martin Kleppmann">مارتین کلیپ من</span> است. DDIA کتابی بسیار خواندنی است و برای کسانی که در حال یادگیری و تمرین هستند طراحیی شده است، که در آن حفظ عمق و دقت رعایت شده است، و خیلی بهتر از کتاب های آموزشی سنتی و مرسوم در این زمینه است.
 
+برای کسانی که کتاب مرسوم تری را ترجیح میدهند، یا کسانی که کتاب رایگان آنلاین را ترجیح میدهند، ما کتاب *[Distributed Systems, 3rd Edition](https://www.distributed-systems.net/index.php/books/ds3/)* از *Maarten van Steen* و *Andrew Tanenbaum* را پیشنهاد میکنیم.
 
-For those seeking a more traditional text, or who would prefer one that’s available for free online, we suggest Maarten van Steen and Andrew Tanenbaum’s *[Distributed Systems, 3rd Edition](https://www.distributed-systems.net/index.php/books/ds3/)*.
+برای کسانی که ویدیو را ترجیح میدهند، یک دوره آموزشی خوب آنلاین همراه با ویدیو دوره [MIT’s 6.824](https://www.youtube.com/watch?v=cQP8WApzIQQ&list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB) است، یک دوره تکمیلی با تدریس *Robert Morris* [اینجا](https://pdos.csail.mit.edu/6.824/schedule.html) در دسترس است.
 
-For those who prefer video, an excellent course with videos available online is [MIT’s 6.824](https://www.youtube.com/watch?v=cQP8WApzIQQ&list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB), a graduate course taught by Robert Morris with readings available [here](https://pdos.csail.mit.edu/6.824/schedule.html).
+فرقی نمیکند کتاب را به عنوان منبع انتخاب کنید یا از منبع دیگری استفاده کنید، یادگیری سیستم های توزیع شده کاملا به خواندن مقالات مربوطه وابسته است. لیست خوبی از آنها [اینجاست](http://dsrg.pdos.csail.mit.edu/papers/) ، and we would highly encourage attending your local [Papers We Love](https://paperswelove.org/) chapter.
 
-No matter the choice of textbook or other secondary resources, study of distributed systems absolutely mandates reading papers. A good list is [here](http://dsrg.pdos.csail.mit.edu/papers/), and we would highly encourage attending your local [Papers We Love](http://paperswelove.org/) chapter.
 
 
 <a href="https://smile.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable-ebook/dp/B06XPJML5D/" target="_blank">
