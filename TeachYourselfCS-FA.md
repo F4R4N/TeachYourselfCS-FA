@@ -126,8 +126,8 @@
 
 برای کسانی که سخنرانی ویدیو ایی را ترجیح میدهند، [اسکینا به صورت آنلاین آن ها را در اختیار ما قرار داده](https://www.youtube.com/watch?v=A2bFN3MyNDA&list=PLOtl7M3yp-DX32N0fVIyvn7ipWKNGmwpp). ما همچنین دوره آموزشی Tim Roughgarden را دوست داریم، که در [Coursera](https://www.coursera.org/specializations/algorithms) و [اینجا](http://timroughgarden.org/videos.html) در دسترس است. مهم نیست شما استایل سخنرانی *اسکینا* رو ترجیح میدهید یا *روگاردن* را، این کاملا یک موضوع شخصی است و به شما بستگی دارد. در واقع، چندین جایگزین خوب وجود دارد، پس اگر شما دوره ای را پیدا کردید که مناسب شما بود و به آن علاقه داشتید، ما شما را تشویق میکنیم که آن را دنبال کنید!
 
+برای تمرین کردن، ترجیح این است که دانش آموزان مسائل موجود در [Leetcode](https://leetcode.com/) را حل کنند. در این سایت سوال ها و مسائل جالب با راه حل ها و بحث های مناسب در این زمینه وجود دارد. این سوال ها همچنین به شما کمک میکند دانش خود را در مقابل سوال هایی که معمولا در مصاحبه های فنی در شرکت های نرم افزاری پرسیده میشود، افزایش دهید. ما پیشنهاد میکنیم حدود 100 تا مسئله تصادفی "leetcode" را به عنوان بخشی از پروسه درس خواندنتان حل کنید.
 
-For practice, our preferred approach is for students to solve problems on [Leetcode](https://leetcode.com/). These tend to be interesting problems with decent accompanying solutions and discussions. They also help you test progress against questions that are commonly used in technical interviews at the more competitive software companies. We suggest solving around 100 random leetcode problems as part of your studies.
 نهایتا، راهنمای *[How to Solve It](https://smile.amazon.com/How-Solve-Mathematical-Princeton-Science/dp/069116407X/)* یک رهنمای عالی و عمومی برای حل مسئله است، و همانگونه که برای ریاضیات در کتاب توضیح داده شده است، برای علوم کامپیوتر هم میتوان این کتاب را مناسب در نظر گرفت.
 
 
@@ -139,8 +139,7 @@ For practice, our preferred approach is for students to solve problems on [Leetc
 
 ![How To Solve It book cover](./images/polya.jpg)
 </a>
-
-> I have only one method that I recommend extensively—it’s called think before you write.
+> من فقط یک روش دارم که به صورت گستره به همه پیشنهاد میکنم - قبل از اینکه بنویسی فکر کن.
 
 <div dir="ltr">
 — Richard Hamming
@@ -149,6 +148,7 @@ For practice, our preferred approach is for students to solve problems on [Leetc
 
 <span id="math"></span>
 ### ریاضی برای علوم کامپیوتر
+
 
 In some ways, computer science is an overgrown branch of applied mathematics. While many software engineers try—and to varying degrees succeed—at ignoring this, we encourage you to embrace it with direct study. Doing so successfully will give you an enormous competitive advantage over those who don’t.
 
