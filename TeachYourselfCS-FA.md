@@ -120,7 +120,7 @@
 <span id="algorithms"></span>
 ### الگوریتم و ساختار داده
 
-
+ما با چندین دهه خرد مشترک موافقیم که آشنایی با الگوریتم ها و ساختارهای داده متداول یکی از جنبه هایی است که به شما کمک میکند علوم کامپیوتر را یاد بگیرید. 
 We agree with decades of common wisdom that familiarity with common algorithms and data structures is one of the most empowering aspects of a computer science education. This is also a great place to train one’s general problem-solving abilities, which will pay off in every other area of study.
 
 There are hundreds of books available, but our favorite is *[The Algorithm Design Manual](https://smile.amazon.com/Algorithm-Design-Manual-Steven-Skiena/dp/1848000693/)* by Steven Skiena. He clearly loves algorithmic problem solving and typically succeeds in fostering similar enthusiasm among his students and readers. In our opinion, the two more commonly suggested texts (CLRS and Sedgewick) tend to be a little too proof-heavy for those learning the material primarily to help with practical problem solving.
@@ -236,7 +236,8 @@ Finally, data modeling is a neglected and poorly taught aspect of working with d
 <span id="languages"></span>
 ### زبان ها و کامپایلر ها
 
-Most programmers learn languages, whereas most computer scientists learn *about* languages. This gives the computer scientist a distinct advantage over the programmer, even in the domain of programming! Their knowledge generalizes; they are able to understand the operation of a new language more deeply and quickly than those who have merely learned specific languages.
+بیشتر برنامه نویس ها زبان های برنامه نویسی را یاد میگرند، در حالیکه بیشتر دانشمندان کامپیوتر *درباره* زبان های برنامه نویسی مطالعه میکنند. این به دانشمندان کامپیوتر برتری متمایزی نسبت به برنامه نویس ها میدهد، حتی در دامنه برنامه نویسی! دانش آنها در مورد جنبه های مختلف این علم بیشتر است، آنها میتوانند عملکرد زبان های جدید را بهتر درک کنند و عمیق تر و سریع تر از کسانی که فقط یک زبان خاص را یاد گرفته اند، زبان جدید را یاد بگیرند.
+
 
 Our suggested introductory text is the excellent *[Crafting Interpreters](https://craftinginterpreters.com/contents.html)* by Bob Nystrom, available for free online. It's well organized, highly entertaining, and well suited to those whose primary goal is simply to better understand their languages and language tools. We suggest taking the time to work through the whole thing, attempting whichever of the "challenges" sustain your interest.
 
