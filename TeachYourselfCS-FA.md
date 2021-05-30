@@ -120,16 +120,16 @@
 <span id="algorithms"></span>
 ### الگوریتم و ساختار داده
 
-ما با چندین دهه خرد مشترک موافقیم که آشنایی با الگوریتم ها و ساختارهای داده متداول یکی از جنبه هایی است که به شما کمک میکند علوم کامپیوتر را یاد بگیرید. 
-We agree with decades of common wisdom that familiarity with common algorithms and data structures is one of the most empowering aspects of a computer science education. This is also a great place to train one’s general problem-solving abilities, which will pay off in every other area of study.
+ما با چندین دهه خرد مشترک موافقیم که آشنایی با الگوریتم ها و ساختارهای داده متداول، یکی از جنبه هایی است که به شما کمک میکند علوم کامپیوتر را یاد بگیرید. همچنین این راه بسیار خوبی است تا به صورت عمومی توانیی حل مسئله را در خود تقویت کنید، که به شما در یادگیری هر موضوعی و در هر زمینه ای کمک میکند.
 
-There are hundreds of books available, but our favorite is *[The Algorithm Design Manual](https://smile.amazon.com/Algorithm-Design-Manual-Steven-Skiena/dp/1848000693/)* by Steven Skiena. He clearly loves algorithmic problem solving and typically succeeds in fostering similar enthusiasm among his students and readers. In our opinion, the two more commonly suggested texts (CLRS and Sedgewick) tend to be a little too proof-heavy for those learning the material primarily to help with practical problem solving.
+صد ها کتاب در این باره موجود است، اما کتاب مورد علاقه ما، کتاب *[The Algorithm Design Manual](https://smile.amazon.com/Algorithm-Design-Manual-Steven-Skiena/dp/1848000693/)* است که توسط <span title="Steven Skiena">استیون اسکینا</span> نوشته شده است.به وضوح او عاشق حل کردن مسائل بر پایه الگوریتم است و معمولا در القای این حس علاقه به دانش آموزانش و خوانندگان کتابش موفق بوده است. طبق باور ما، دو کتاب دیگر که معمولا پیشنهاد میشود CLRS و Sedgewick است، مطالب اراعه شده در این کتاب ها برای کسانی که کتاب ها را برای تقویت توانایی حل مسئله خود میخوانند کمی سنگین است.
 
-For those who prefer video lectures, [Skiena generously provides his online](https://www.youtube.com/watch?v=A2bFN3MyNDA&list=PLOtl7M3yp-DX32N0fVIyvn7ipWKNGmwpp). We also really like Tim Roughgarden’s course, available [on Coursera](https://www.coursera.org/specializations/algorithms) and [elsewhere](http://timroughgarden.org/videos.html). Whether you prefer Skiena’s or Roughgarden’s lecture style will be a matter of personal preference. In fact, there are dozens of good alternatives, so if you happen to find another that you like, we encourage you to stick with it!
+برای کسانی که سخنرانی ویدیو ایی را ترجیح میدهند، [اسکینا به صورت آنلاین آن ها را در اختیار ما قرار داده](https://www.youtube.com/watch?v=A2bFN3MyNDA&list=PLOtl7M3yp-DX32N0fVIyvn7ipWKNGmwpp). ما همچنین دوره آموزشی Tim Roughgarden را دوست داریم، که در [Coursera](https://www.coursera.org/specializations/algorithms) و [اینجا](http://timroughgarden.org/videos.html) در دسترس است. مهم نیست شما استایل سخنرانی *اسکینا* رو ترجیح میدهید یا *روگاردن* را، این کاملا یک موضوع شخصی است و به شما بستگی دارد. در واقع، چندین جایگزین خوب وجود دارد، پس اگر شما دوره ای را پیدا کردید که مناسب شما بود و به آن علاقه داشتید، ما شما را تشویق میکنیم که آن را دنبال کنید!
+
 
 For practice, our preferred approach is for students to solve problems on [Leetcode](https://leetcode.com/). These tend to be interesting problems with decent accompanying solutions and discussions. They also help you test progress against questions that are commonly used in technical interviews at the more competitive software companies. We suggest solving around 100 random leetcode problems as part of your studies.
+نهایتا، راهنمای *[How to Solve It](https://smile.amazon.com/How-Solve-Mathematical-Princeton-Science/dp/069116407X/)* یک رهنمای عالی و عمومی برای حل مسئله است، و همانگونه که برای ریاضیات در کتاب توضیح داده شده است، برای علوم کامپیوتر هم میتوان این کتاب را مناسب در نظر گرفت.
 
-Finally, we strongly recommend *[How to Solve It](https://smile.amazon.com/How-Solve-Mathematical-Princeton-Science/dp/069116407X/)* as an excellent and unique guide to general problem solving; it’s as applicable to computer science as it is to mathematics.
 
 <a href="https://smile.amazon.com/Algorithm-Design-Manual-Steven-Skiena/dp/1848000693/" target="_blank">
 
