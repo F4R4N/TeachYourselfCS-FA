@@ -153,8 +153,8 @@
 
 مرتبط ترین حوزه ریاضیات به علوم کامپیوتر "ریاضیات گسسته" نام دارد، در اینجا "گسسته" مخالف "مداوم" است و شامل مجموعه ای از موضوعات جذاب ریاضیات کاربردی است outside of calculus. با توجه به این تعریف مبهم، شما نمیتوانید تمام مباحث ریاضیات گسسته را یاد بگیرید و تمام آن را پوشش دهید. یک هدف واقع بینانه تراین است که شما تلاش کنید درک کاربردی از منطق، ترکیبات و احتمالات، تئوری مجموعه ها، تئوری نمودار ها، و کمی تئوری اعداد که برای مباحث رمزنگاری به شما اطلاعات میدهد را فرا بگیرید. جبر خطی یک زمینه خوب برای یادگیری اضافه تر است، از آنجا که در مباحث گرافیک کامپیوتری و یادگیری ماشین بسیار اهمیت دارد.
 
-
-Our suggested starting point for discrete mathematics is the set of [lecture notes by László Lovász](http://www.cs.elte.hu/~lovasz/dmbook.ps). Professor Lovász did a good job of making the content approachable and intuitive, so this serves as a better starting point than more formal texts.
+نقطه آغازین پیشنهادی ما برای ریاضیات گسسته مجموعه [یادداشت های سخنرانی توسط László Lovász](http://www.cs.elte.hu/~lovasz/dmbook.ps) است. 
+Our suggested starting point for discrete mathematics is the set of [lecture notes by László Lovász](http://www.cs.elte.hu/~lovasz/dmbook.ps). Professor Lovász did a good job of making the content approachable and , so this serves as a better starting point than more formal texts.
 
 For a more advanced treatment, we suggest *[Mathematics for Computer Science](https://courses.csail.mit.edu/6.042/spring17/mcs.pdf)*, the book-length lecture notes for the MIT course of the same name. That course’s video lectures are also [freely available](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/), and are our recommended video lectures for discrete math.
 
