@@ -153,17 +153,17 @@
 
 مرتبط ترین حوزه ریاضیات به علوم کامپیوتر "ریاضیات گسسته" نام دارد، در اینجا "گسسته" مخالف "مداوم" است و شامل مجموعه ای از موضوعات جذاب ریاضیات کاربردی است outside of calculus. با توجه به این تعریف مبهم، شما نمیتوانید تمام مباحث ریاضیات گسسته را یاد بگیرید و تمام آن را پوشش دهید. یک هدف واقع بینانه تراین است که شما تلاش کنید درک کاربردی از منطق، ترکیبات و احتمالات، تئوری مجموعه ها، تئوری نمودار ها، و کمی تئوری اعداد که برای مباحث رمزنگاری به شما اطلاعات میدهد را فرا بگیرید. جبر خطی یک زمینه خوب برای یادگیری اضافه تر است، از آنجا که در مباحث گرافیک کامپیوتری و یادگیری ماشین بسیار اهمیت دارد.
 
-نقطه آغازین پیشنهادی ما برای ریاضیات گسسته مجموعه [یادداشت های سخنرانی توسط László Lovász](http://www.cs.elte.hu/~lovasz/dmbook.ps) است. 
-Our suggested starting point for discrete mathematics is the set of [lecture notes by László Lovász](http://www.cs.elte.hu/~lovasz/dmbook.ps). Professor Lovász did a good job of making the content approachable and , so this serves as a better starting point than more formal texts.
+نقطه آغازین پیشنهادی ما برای ریاضیات گسسته مجموعه [یادداشت های سخنرانی توسط László Lovász](http://www.cs.elte.hu/~lovasz/dmbook.ps) است. پروفسور Lovász محتوای خوب و قابل دسترس را فراهم کرده، که از بیشتر متون معمول نقطه بهتری برای آغاز است.
 
-For a more advanced treatment, we suggest *[Mathematics for Computer Science](https://courses.csail.mit.edu/6.042/spring17/mcs.pdf)*, the book-length lecture notes for the MIT course of the same name. That course’s video lectures are also [freely available](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/), and are our recommended video lectures for discrete math.
+برای مباحث پیشرفته تر، ما *[ریاضیات برای علوم کامپیوتر](https://courses.csail.mit.edu/6.042/spring17/mcs.pdf)*(Mathematics for Computer Science) را پیشنهاد میکنیم، یادداشت های سخنرانی با قطر یک کتاب از دوره دانشگاه MIT با همین نام. ویدیو های سخنرانی این دوره نیز [به صورت رایگان](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/) در دسترس است، و ویدیو های سخنرانی پیشنهادی ما برای ریاضیات گسسته است.
 
-For linear algebra, we suggest starting with the [Essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) video series, followed by Gilbert Strang’s [book](https://www.amazon.com/Introduction-Linear-Algebra-Gilbert-Strang/dp/0980232775/) and [video lectures](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/).
+برای جبر خطی، ما پیشنهاد میکنیم با مجموعه ویدیویی [Essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) آغاز کنید، و در ادامه این [کتاب](https://www.amazon.com/Introduction-Linear-Algebra-Gilbert-Strang/dp/0980232775/) از Gilbert Strang و این [سخنرانی ویدیویی](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/) را میتوانید مطالعه کنید.
+
+
+
+> مردم باور نمیکنند که ریاضی ساده است، تنها بخاطر اینکه متوجه نیستند که زندگی چقدر پیچیده است.
 
 <div dir="ltr">
-
-> If people do not believe that mathematics is simple, it is only because they do not realize how complicated life is.
-
 — John von Neumann
 
 </div>
@@ -171,7 +171,8 @@ For linear algebra, we suggest starting with the [Essence of linear algebra](htt
 
 ### سیستم عامل ها
 
-*[Operating System Concepts](https://www.amazon.com/dp/1118063333/)* (the “Dinosaur book”) and *[Modern Operating Systems](https://www.amazon.com/dp/013359162X/)* are the “classic” books on operating systems. Both have attracted criticism for their lack of clarity and general student unfriendliness.
+*[Operating System Concepts](https://www.amazon.com/dp/1118063333/)* ("کتاب دایناسوری") و *[Modern Operating Systems](https://www.amazon.com/dp/013359162X/)* کتاب های کلاسیک در باب سیستم عامل ها هستند. به هر دو انتقادات بسیاری برای مبهم بودن و ناواضح بودن برای دانش آموزان، وارد شده است.
+
 
 *Operating Systems: Three Easy Pieces* is a good alternative that’s [freely available online](http://pages.cs.wisc.edu/~remzi/OSTEP/). We particularly like the structure and readability of the book, and feel that the exercises are worthwhile.
 
