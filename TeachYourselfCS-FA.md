@@ -149,10 +149,10 @@
 <span id="math"></span>
 ### ریاضی برای علوم کامپیوتر
 
+علوم کامپیوتر به نوعی یک شاخه رشد کرده و بزرگ شده از ریاضیات است. در حالی که بسیاری از مهندسان نرم افزار در تلاشند این موضوع را نادیده بگیرند، ما شما را ترغیب میکنیم به مطالعه و یادگیری مستقیم آن بپردازید. اگر این کار را با موفقیت انجام دهید به شما برتری قابل توجهی نسبت به آنهایی که نمیدانند میدهد.
 
-In some ways, computer science is an overgrown branch of applied mathematics. While many software engineers try—and to varying degrees succeed—at ignoring this, we encourage you to embrace it with direct study. Doing so successfully will give you an enormous competitive advantage over those who don’t.
+مرتبط ترین حوزه ریاضیات به علوم کامپیوتر "ریاضیات گسسته" نام دارد، در اینجا "گسسته" مخالف "مداوم" است و شامل مجموعه ای از موضوعات جذاب ریاضیات کاربردی است outside of calculus. با توجه به این تعریف مبهم، شما نمیتوانید تمام مباحث ریاضیات گسسته را یاد بگیرید و تمام آن را پوشش دهید. یک هدف واقع بینانه تراین است که شما تلاش کنید درک کاربردی از منطق، ترکیبات و احتمالات، تئوری مجموعه ها، تئوری نمودار ها، و کمی تئوری اعداد که برای مباحث رمزنگاری به شما اطلاعات میدهد را فرا بگیرید. جبر خطی یک زمینه خوب برای یادگیری اضافه تر است، از آنجا که در مباحث گرافیک کامپیوتری و یادگیری ماشین بسیار اهمیت دارد.
 
-The most relevant area of math for CS is broadly called “discrete mathematics”, where “discrete” is the opposite of “continuous” and is loosely a collection of interesting applied math topics outside of calculus. Given the vague definition, it’s not meaningful to try to cover the entire breadth of “discrete mathematics”. A more realistic goal is to build a working understanding of logic, combinatorics and probability, set theory, graph theory, and a little of the number theory informing cryptography. Linear algebra is an additional worthwhile area of study, given its importance in computer graphics and machine learning.
 
 Our suggested starting point for discrete mathematics is the set of [lecture notes by László Lovász](http://www.cs.elte.hu/~lovasz/dmbook.ps). Professor Lovász did a good job of making the content approachable and intuitive, so this serves as a better starting point than more formal texts.
 
