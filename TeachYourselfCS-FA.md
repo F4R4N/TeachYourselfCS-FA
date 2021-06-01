@@ -160,8 +160,7 @@
 برای جبر خطی، ما پیشنهاد میکنیم با مجموعه ویدیویی [Essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) آغاز کنید، و در ادامه این [کتاب](https://www.amazon.com/Introduction-Linear-Algebra-Gilbert-Strang/dp/0980232775/) از Gilbert Strang و این [سخنرانی ویدیویی](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/) را میتوانید مطالعه کنید.
 
 
-
-> مردم باور نمیکنند که ریاضی ساده است، تنها بخاطر اینکه متوجه نیستند که زندگی چقدر پیچیده است.
+> مردم باور ندراند که ریاضی ساده است، تنها بخاطر اینکه متوجه نیستند که زندگی چقدر پیچیده است.
 
 <div dir="ltr">
 — John von Neumann
@@ -173,12 +172,11 @@
 
 *[Operating System Concepts](https://www.amazon.com/dp/1118063333/)* ("کتاب دایناسوری") و *[Modern Operating Systems](https://www.amazon.com/dp/013359162X/)* کتاب های کلاسیک در باب سیستم عامل ها هستند. به هر دو انتقادات بسیاری برای مبهم بودن و ناواضح بودن برای دانش آموزان، وارد شده است.
 
+*Operating Systems: Three Easy Pieces*(OSTEP) جایگزین خوبی برای این دو کتاب است که [به صورت رایگان و آنلاین](http://pages.cs.wisc.edu/~remzi/OSTEP/) در دسترس است. ما به طور خاص ساختار و خوانا بودن کتاب را دوست داریم، و حس میکنیم که تمرینات آن ارزشمند و خوب است.
 
-*Operating Systems: Three Easy Pieces* is a good alternative that’s [freely available online](http://pages.cs.wisc.edu/~remzi/OSTEP/). We particularly like the structure and readability of the book, and feel that the exercises are worthwhile.
+پس از *OSTEP* ، ما شما را تشویق میکنیم به وسیله کتاب هایی با استایل "{OS name} Internals" تصمیمات گرفته شده درباره طراحی، در سیستم عامل های مختلف را بررسی کنید، کتاب هایی مانند *[Lion's commentary on Unix](https://www.amazon.com/Lions-Commentary-Unix-John/dp/1573980137/)* ، *[The Design and Implementation of the FreeBSD Operating System](https://www.amazon.com/Design-Implementation-FreeBSD-Operating-System/dp/0321968972/)* و *[Mac OS X Internals](https://www.amazon.com/Mac-OS-Internals-Systems-Approach/dp/0321278542/)*. برای سیستم عامل Linux، ما کتاب فوق العاده [Linux Kernel Development](https://www.amazon.com/Linux-Kernel-Development-Robert-Love/dp/0672329468) از رابرت لاو را پیشنهاد میدهیم.
 
-After OSTEP, we encourage you to explore the design decisions of specific operating systems, through “{OS name} Internals” style books such as *[Lion's commentary on Unix](https://www.amazon.com/Lions-Commentary-Unix-John/dp/1573980137/)*, *[The Design and Implementation of the FreeBSD Operating System](https://www.amazon.com/Design-Implementation-FreeBSD-Operating-System/dp/0321968972/)*, and *[Mac OS X Internals](https://www.amazon.com/Mac-OS-Internals-Systems-Approach/dp/0321278542/)*. For Linux, we suggest Robert Love's fantastic [Linux Kernel Development](https://www.amazon.com/Linux-Kernel-Development-Robert-Love/dp/0672329468).
-
-A great way to consolidate your understanding of operating systems is to read the code of a small kernel and add features. One choice is [xv6](https://pdos.csail.mit.edu/6.828/2016/xv6.html), a port of Unix V6 to ANSI C and x86, maintained for a course at MIT. OSTEP has an appendix of potential [xv6 labs](http://pages.cs.wisc.edu/~remzi/OSTEP/lab-projects-xv6.pdf) full of great ideas for potential projects.
+یک راه عالی برای تحکیم دانسته های شما در ذهنتان درباره سیستم عامل، خواندن کد یک کرنل کوچک و تلاش برای اضافه کردن قابلیت های جدید به آن است. یکی از انتخاب های شما برای این کار میتواند [xv6](https://pdos.csail.mit.edu/6.828/2016/xv6.html) باشد، a port of Unix V6 to ANSI C and x86, maintained for a course at MIT. یکی از ضمیمه های کتاب OSTEP [آزمایشگاه های xv6](http://pages.cs.wisc.edu/~remzi/OSTEP/lab-projects-xv6.pdf) است، که پر از ایده های خوب برای انجام پروژه است.
 
 
 <a href="http://pages.cs.wisc.edu/~remzi/OSTEP/" target="_blank">
