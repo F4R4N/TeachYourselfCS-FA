@@ -251,7 +251,7 @@ If you elect to use the Dragon Book, it’s almost essential that you cherry-pic
 > یک برنامه نویس که فقط از کد های آماده استفاده میکند نباش. درعوض، ابزار هایی برای مصرف کنندگان و برنامه نویسان دیگر بساز. یک درس تاریخی از صنایع پارچه و فولاد: میخواهی ماشین ها و ابزار رو تولید کنی یا میخوای فقط از اون ابزار استفاده کنی ؟
 
 <div dir="ltr">
-— Ras Bodik at the start of his compilers course
+— در ابتدای دوره کامپایلر خود Ras Bodik
 </div>
 <span id="distributed-systems"></span>
 
