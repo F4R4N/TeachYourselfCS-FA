@@ -28,15 +28,15 @@
 
 |موضوع|دلیل یادگیری|کتاب|ویدئو|
 |------:|---------:|:---|:-----|
-|**[برنامه نویسی](#programming)**|اون آدمی نباشید که مطالب را "کامل درک نمی کرد".|*Structure and Interpretation of Computer Programs* |Brian Harvey’s Berkeley CS 61A|
-|**[معماری کامپیوتر](#architecture)**|اگه ذهنیت درست و محکمی درمورد اینکه یک کامپیوتر چگونه کار میکند نداشته باشید، همه کار های سطح بالاتر شکننده خواهند بود.|*Computer Systems: A Programmer's Perspective*|Berkeley CS 61C|
-|**[الگوریتم و ساختمان داده](#algorithms)**|اگه ندانید که چجوری از ساختارهایی مثل استک، درخت، صف و گراف استفاده کنید، مشکلات چالشی غیرقابل حل خواهند بود.|*The Algorithm Design Manual*|Steven Skiena’s lectures|
-|**[ریاضی برای علوم کامپیوتر](#math)**| علوم کامپیوتر در واقع یک شاخه از ریاضیات است، پس یادگیری ریاضی برای شما یک مزیت مهم محسوب میشود. |*Mathematics for Computer Science*|Tom Leighton’s MIT 6.042J|
-|**[سیستم عامل ها](#operating-systems)**|اکثر کد هایی که شما مینویسید توسط سیستم عامل اجرا میشوند، پس شما باید بدانید انها چگونه باهم ارتباط برقرار میکنند|*operating systems : Three Easy Pieces*|Berkeley CS 162|
-|**[شبکه های کامپیوتری](#networking)**|معلوم شد که اینترنت نقش بزرگی بازی میکنه: درک کنید چگونه کار میکند تا از پتانسیل های آن بهره ببرید.|*Computer Networking: A Top-Down Approach*|Stanford CS 144|
-|**[پایگاه های داده](#databases)**|داده در قلب مهم ترین برنامه ها قرار دارند، اما تعداد کمی درک میکنند که پایگاه داده ها در واقع چگونه کار میکنند.|*Readings in Database Systems*|Joe Hellerstein’s Berkeley CS 186|
-|**[زبان ها و کامپایلر](#languages)**|اگر شما درک کنید که زبان ها و کامپایلر در واقع چطور کار میکنند، شما کد های بهتری مینویسید و زبان های جدید را ساده تر یاد میگیرید.|*Crafting Interpreters*|Alex Aiken’s course on edX|
-|**[سیستم های توزیع شده](#distributed-systems)**|امروزه اکثر سیستم ها، سیستم های توزیع شده اند.|*Designing Data-Intensive Applications* by Martin Kleppmann|MIT 6.824|
+| **[برنامه نویسی](#programming)** | اون آدمی نباشید که مطالب را "کامل درک نمی کرد". | *Structure and Interpretation of Computer Programs* | Brian Harvey’s Berkeley CS 61A |
+| **[معماری کامپیوتر](#architecture)** | اگه ذهنیت درست و محکمی درمورد اینکه یک کامپیوتر چگونه کار میکند نداشته باشید، همه کار های سطح بالاتر شکننده خواهند بود. | *Computer Systems: A Programmer's Perspective* | Berkeley CS 61C |
+| **[الگوریتم و ساختمان داده](#algorithms)** | اگه ندانید که چجوری از ساختارهایی مثل استک، درخت، صف و گراف استفاده کنید، مشکلات چالشی غیرقابل حل خواهند بود. | *The Algorithm Design Manual* | Steven Skiena’s lectures |
+| **[ریاضی برای علوم کامپیوتر](#math)** | علوم کامپیوتر در واقع یک شاخه از ریاضیات است، پس یادگیری ریاضی برای شما یک مزیت مهم محسوب میشود. | *Mathematics for Computer Science* | Tom Leighton’s MIT 6.042J |
+| **[سیستم عامل ها](#operating-systems)** | اکثر کد هایی که شما مینویسید توسط سیستم عامل اجرا میشوند، پس شما باید بدانید انها چگونه باهم ارتباط برقرار میکنند | *operating systems : Three Easy Pieces* | Berkeley CS 162 |
+| **[شبکه های کامپیوتری](#networking)** | معلوم شد که اینترنت نقش بزرگی بازی میکنه: درک کنید چگونه کار میکند تا از پتانسیل های آن بهره ببرید. | *Computer Networking: A Top-Down Approach*|Stanford CS 144 |
+| **[پایگاه های داده](#databases)** | داده در قلب مهم ترین برنامه ها قرار دارند، اما تعداد کمی درک میکنند که پایگاه داده ها در واقع چگونه کار میکنند.|*Readings in Database Systems* | Joe Hellerstein’s Berkeley CS 186 |
+| **[زبان ها و کامپایلر](#languages)** | اگر شما درک کنید که زبان ها و کامپایلر در واقع چطور کار میکنند، شما کد های بهتری مینویسید و زبان های جدید را ساده تر یاد میگیرید. | *Crafting Interpreters* | Alex Aiken’s course on edX |
+| **[سیستم های توزیع شده](#distributed-systems)** | امروزه اکثر سیستم ها، سیستم های توزیع شده اند. | *Designing Data-Intensive Applications* by Martin Kleppmann | MIT 6.824 |
 
 
 ## هنوز خیلی زیاده ؟
@@ -194,10 +194,9 @@
 برای کسانی که سخنرانی ویدیوی ترجیح میدهند، ما [*Introduction to Computer Networking course*](https://www.youtube.com/playlist?list=PLvFG2xYBrYAQCyz4Wx3NPoYJOFjvU7g2Z) از Stanford را پیشنهاد میدهیم، که قبلا در بستر MOOC استنفورد یعنی Lagunita در دسترس بود، اما متاسفانه در حال حاضر در قالب یک پلی لیست غیر رسمی در یوتیوب قابل دسترسی است.
 
 
+> شما نمیتوانید به یک گوی کریستالی خیره شوید و آینده را ببینید. آنچه اینترنت قرار است در آینده باشد آنچیزی است که جامعه از آن میسازد.
+
 <div dir="ltr">
-
-> شما نمیتوانید به یک گوی کریستالی خیره شوید و آینده را ببینید. آنچه اینترنت قرار است در آینده باشد آنچیزی است که جامعه آن را میسازد.
-
 — Bob Kahn
 
 </div>
@@ -210,11 +209,11 @@
 <span id="databases"></span>
 ### پایگاه داده
 
+برای دانش آموزان خود آموز یادگیری سیستم پایگاه های داده کمی بیشتر از دیگر موضوعات کار میبرد. این یک زمینه مطالعاتی نسبتا جدید (پس از سال 1970)با انگیزه های تجاری قوی است. علاوه بر این، بسیاری از نویسندگان خوب کتاب های درسی ترجیح دادند که به یک شرکت پیوسته یا شرکت خود را تاسیس کنند و نویسندگی را رها ککند.
 
-It takes more work to self-learn about database systems than it does with most other topics. It’s a relatively new (i.e. post 1970s) field of study with strong commercial incentives for ideas to stay behind closed doors. Additionally, many potentially excellent textbook authors have preferred to join or start companies instead.
+با شرایطی که شرح شد، ما خود آموزان را تشویق میکنیم از کتاب های درسی در این زمینه دوری کنند و با دوره پایگاه های داده بارکلی از Joe Hellerstein به نام [recordings of CS 186](https://www.youtube.com/user/CS186Berkeley/videos) یادگیری را شروع کنید، و پس از آن برای مطالب پیشرفته تر شروع به خواندن مقالات کنید.
 
-Given the circumstances, we encourage self-learners to generally avoid textbooks and start with [recordings of CS 186](https://www.youtube.com/user/CS186Berkeley/videos), Joe Hellerstein’s databases course at Berkeley, and to progress to reading papers after.
-
+یکی از مقالاتی که برای دانش آموزان تازه کار مناسب است “[Architecture of a Database System](http://db.cs.berkeley.edu/papers/fntdb07-architecture.pdf)” است، که به شما نمای سطح بالایی از چگونگی کار 
 One paper particularly worth mentioning for new students is “[Architecture of a Database System](http://db.cs.berkeley.edu/papers/fntdb07-architecture.pdf)”, which uniquely provides a high-level view of how relational database management systems (RDBMS) work. This will serve as a useful skeleton for further study.
 
 *Readings in Database Systems*, better known as [the databases “Red Book”](http://www.redbook.io/), is a collection of papers compiled and edited by Peter Bailis, Joe Hellerstein and Michael Stonebraker. For those who have progressed beyond the level of the CS 186 content, the Red Book should be your next stop.
@@ -223,7 +222,6 @@ If you're adamant about using an introductory textbook, we suggest *[Database Ma
 
 Finally, data modeling is a neglected and poorly taught aspect of working with databases. Our suggested book on the topic is *[Data and Reality: A Timeless Perspective on Perceiving and Managing Information in Our Imprecise World](https://www.amazon.com/Data-Reality-Perspective-Perceiving-Information/dp/1935504215)*.
 
-[![](./Teach%20Yourself%20Computer%20Science_files/data-reality.jpg)]()
 
 <a href="http://www.redbook.io/" target="_blank">
 
