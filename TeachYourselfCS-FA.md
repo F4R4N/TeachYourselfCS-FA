@@ -213,14 +213,13 @@
 
 با شرایطی که شرح شد، ما خود آموزان را تشویق میکنیم از کتاب های درسی در این زمینه دوری کنند و با دوره پایگاه های داده بارکلی از Joe Hellerstein به نام [recordings of CS 186](https://www.youtube.com/user/CS186Berkeley/videos) یادگیری را شروع کنید، و پس از آن برای مطالب پیشرفته تر شروع به خواندن مقالات کنید.
 
-یکی از مقالاتی که برای دانش آموزان تازه کار مناسب است “[Architecture of a Database System](http://db.cs.berkeley.edu/papers/fntdb07-architecture.pdf)” است، که به شما نمای سطح بالایی از چگونگی کار 
-One paper particularly worth mentioning for new students is “[Architecture of a Database System](http://db.cs.berkeley.edu/papers/fntdb07-architecture.pdf)”, which uniquely provides a high-level view of how relational database management systems (RDBMS) work. This will serve as a useful skeleton for further study.
+یکی از مقالاتی که برای دانش آموزان تازه کار مناسب است “[Architecture of a Database System](http://db.cs.berkeley.edu/papers/fntdb07-architecture.pdf)” است، که به شما نمای سطح بالایی از چگونگی کار "سیستم های مدیریت روابط پایگاه داده"(RDBMS) را نشان میدهد. این میتواند به شما زیر بنای یادگیری مباحث بعدی را اراعه بدهد.
 
-*Readings in Database Systems*, better known as [the databases “Red Book”](http://www.redbook.io/), is a collection of papers compiled and edited by Peter Bailis, Joe Hellerstein and Michael Stonebraker. For those who have progressed beyond the level of the CS 186 content, the Red Book should be your next stop.
+*Readings in Database Systems* ، که با نام ["کتاب قرمز" پایگاه های داده](http://www.redbook.io/) شناخته میشود، مجموعه ای از مقالات است که توسط *پیتر بایلیس* ، *جو هلرستین* و *مایکل استون بریکر* تصحیح و منتشر شده است. برای کسانی که در مراحل بالاتر مباحث CS186 هستند، "کتاب قرمز" باید مرحله بعدی برای شما باشد.
 
-If you're adamant about using an introductory textbook, we suggest *[Database Management Systems](https://smile.amazon.com/Database-Management-Systems-Raghu-Ramakrishnan/dp/0072465638/)* by Ramakrishnan and Gehrke. For more advanced students, Jim Gray’s classic *[Transaction Processing: Concepts and Techniques](https://www.amazon.com/Transaction-Processing-Concepts-Techniques-Management/dp/1558601902)* is worthwhile, but we don’t encourage using this as a first resource.
+اگر شما بر شروع کردن با یک کتاب سطح مقدماتی تاکید دارید، ما کتاب *[Database Management Systems](https://smile.amazon.com/Database-Management-Systems-Raghu-Ramakrishnan/dp/0072465638/)* از Ramakrishnan و Gehrke را پیشنهاد میکنیم. برای دانش آموزان در سطوح بالاتر، کتاب کلاسیک *[Transaction Processing: Concepts and Techniques](https://www.amazon.com/Transaction-Processing-Concepts-Techniques-Management/dp/1558601902)* از جیم گری، ارزش خواندن را دارد، ولی ما پیشنهاد نمیکنیم این کتاب را به عنوان اولین منبع آموزشی خود انتخاب کنید.
 
-Finally, data modeling is a neglected and poorly taught aspect of working with databases. Our suggested book on the topic is *[Data and Reality: A Timeless Perspective on Perceiving and Managing Information in Our Imprecise World](https://www.amazon.com/Data-Reality-Perspective-Perceiving-Information/dp/1935504215)*.
+نهایتا، مدل سازی داده یکی از مباحث پایگاه داده است که کمتر به آن پرداخته شده است. کتاب پیشنهادی ما در باره این مبحث  *[Data and Reality: A Timeless Perspective on Perceiving and Managing Information in Our Imprecise World](https://www.amazon.com/Data-Reality-Perspective-Perceiving-Information/dp/1935504215)* است.
 
 
 <a href="http://www.redbook.io/" target="_blank">
@@ -248,10 +247,10 @@ If you elect to use the Dragon Book, it’s almost essential that you cherry-pic
 
 ![Compilers: Principles, Techniques & Tools book cover](./images/dragon.jpg)
 </a>
+
+> یک برنامه نویس که فقط از کد های آماده استفاده میکند نباش. درعوض، ابزار هایی برای مصرف کنندگان و برنامه نویسان دیگر بساز. یک درس تاریخی از صنایع پارچه و فولاد: میخواهی ماشین ها و ابزار رو تولید کنی یا میخوای فقط از اون ابزار استفاده کنی ؟
+
 <div dir="ltr">
-
-> Don’t be a boilerplate programmer. Instead, build tools for users and other programmers. Take historical note of textile and steel industries: do you want to build machines and tools, or do you want to operate those machines?
-
 — Ras Bodik at the start of his compilers course
 </div>
 <span id="distributed-systems"></span>
