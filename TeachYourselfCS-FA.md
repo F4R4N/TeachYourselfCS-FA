@@ -262,7 +262,8 @@
 
 برای کسانی که ویدیو را ترجیح میدهند، یک دوره آموزشی خوب آنلاین همراه با ویدیو دوره [MIT’s 6.824](https://www.youtube.com/watch?v=cQP8WApzIQQ&list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB) است، یک دوره تکمیلی با تدریس *Robert Morris* [اینجا](https://pdos.csail.mit.edu/6.824/schedule.html) در دسترس است.
 
-فرقی نمیکند کتاب را به عنوان منبع انتخاب کنید یا از منبع دیگری استفاده کنید، یادگیری سیستم های توزیع شده کاملا به خواندن مقالات مربوطه وابسته است. لیست خوبی از آنها [اینجاست](http://dsrg.pdos.csail.mit.edu/papers/) ، and we would highly encourage attending your local [Papers We Love](https://paperswelove.org/) chapter.
+فرقی نمیکند کتاب را به عنوان منبع انتخاب کنید یا از منبع دیگری استفاده کنید، یادگیری سیستم های توزیع شده کاملا به خواندن مقالات مربوطه وابسته است. لیست خوبی از آنها [اینجاست](http://dsrg.pdos.csail.mit.edu/papers/) ، و ما شما را تشویق میکنیم فصل [Papers We Love](https://paperswelove.org/) خود را تهیه کنید. 
+
 
 
 
