@@ -236,12 +236,12 @@
 
 بیشتر برنامه نویس ها زبان های برنامه نویسی را یاد میگرند، در حالیکه بیشتر دانشمندان کامپیوتر *درباره* زبان های برنامه نویسی مطالعه میکنند. این به دانشمندان کامپیوتر برتری متمایزی نسبت به برنامه نویس ها میدهد، حتی در دامنه برنامه نویسی! دانش آنها در مورد جنبه های مختلف این علم بیشتر است، آنها میتوانند عملکرد زبان های جدید را بهتر درک کنند و عمیق تر و سریع تر از کسانی که فقط یک زبان خاص را یاد گرفته اند، زبان جدید را یاد بگیرند.
 
+کتاب مقدماتی پیشنهادی ما کتاب عالی *[Crafting Interpreters](https://craftinginterpreters.com/contents.html)* از *باب نیستروم*(Bob Nystrom) است، که به صورت آنلاین و رایگان در دسترس است. این کتاب به خوبی سازماندهی شده، سرگرم کننده است و برای کسانی که میخواهند زبانشان یا ابزار های زبانشان را درک کنند مناسب است. ما پیشنهاد میکنیم برای تمام مطالب در این کتاب وقت بزارید، تلاش برای هر یک از چالش ها علاقه شما به یادگیری را تثبیت میکند.
 
-Our suggested introductory text is the excellent *[Crafting Interpreters](https://craftinginterpreters.com/contents.html)* by Bob Nystrom, available for free online. It's well organized, highly entertaining, and well suited to those whose primary goal is simply to better understand their languages and language tools. We suggest taking the time to work through the whole thing, attempting whichever of the "challenges" sustain your interest.
+یک پیشنهاد سنتی تر *[Compilers: Principles, Techniques & Tools](https://smile.amazon.com/Compilers-Principles-Techniques-Tools-2nd/dp/0321486811)* است، که معمولا به آن "کتاب اژدها" میگویند. متاسفانه، این کتاب برای یادگیری فردی ساخته نشده است، بلکه برای معلمان ساخته شده تا بتوانند مطالب 1 یا 2 ترم دوره خود را از میان آن تامین کنند.
 
-A more traditional recommendation is *[Compilers: Principles, Techniques & Tools](https://smile.amazon.com/Compilers-Principles-Techniques-Tools-2nd/dp/0321486811)*, commonly called “the Dragon Book”. Unfortunately, it’s not designed for self-study, but rather for instructors to pick out 1-2 semesters worth of topics for their courses.
+اگر شما کتاب اژدها را برای یادگیری انتخاب کرده اید، ضروری است که فقط مطالب مهم را انتخاب کنید، یا حتی بهتر از آن، از یک مربی کمک بگیرید. در واقع، اگر کتاب اژدها را انتخاب کرده اید، راه پیشنهادی ما برای استفاده از آن به عنوان یک منبع تکمیلی برای یک سری سخنرانی ویدیویی است. سخنرانی ها پیشنهادی ما ویدیو های [Alex Aiken در edX](https://www.edx.org/course/compilers) است.
 
-If you elect to use the Dragon Book, it’s almost essential that you cherry-pick the topics, ideally with the help of a mentor. In fact, our suggested way to utilize the Dragon Book, if you so choose, is as a supplementary reference for a video lecture series. Our recommended one is [Alex Aiken’s, on edX](https://www.edx.org/course/compilers).
 
 <a href="https://smile.amazon.com/Compilers-Principles-Techniques-Tools-2nd/dp/0321486811" target="_blank">
 
