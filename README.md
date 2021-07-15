@@ -13,7 +13,7 @@ A persian translation of [TeachYourselfCS](https://teachyourselfcs.com/).
 ترجمه فارسی [TeachYourselfCS](https://teachyourselfcs.com/).
 
 ## پیمایش
-- [راهنما یه انگلیسی](https://teachyourselfcs.com/)
+- [راهنما به انگلیسی](https://teachyourselfcs.com/)
 - [ترجمه راهنما به فارسی](./TeachYourselfCS-FA.md)
   
 </div>
